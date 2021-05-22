@@ -1,5 +1,5 @@
 # SzotarProdzsekt
 
-##Kandabula emlékére
+## Kandabula emlékére
 
 *Értelmetlenező* szótár staféta
