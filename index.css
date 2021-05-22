@@ -41,7 +41,7 @@ h1 {
 a {
 	text-decoration: none;
 	color: #176300;
-	transition: color 1s ease;
+	transition: color 1s ease; /*Added transition instead of animation, works just right*/
 }
 
 a:visited {
