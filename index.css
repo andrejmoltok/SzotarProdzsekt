@@ -18,6 +18,7 @@ body {
 /*also szovegdoboz*/
 .center-also {
 	width: 100%;
+	width: 650px;
 	text-align: center;
 	margin: 50px auto 0px auto;
 }

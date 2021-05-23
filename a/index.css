@@ -61,7 +61,7 @@ h1 {
 #navigator {
 	text-align: center;
 	color: #176300;
-	margin: 25px 25px 25px 25px;
+	margin: 15px 15px 15px 15px;
 	font-size: 2em;
 }
 
@@ -78,7 +78,7 @@ h1 {
 /*Also szovegdoboz beallitas*/
 .center-also {
 	max-width: 100%;
-	width: 400px;
+	width: 650px;
 	text-align: center;
 	margin: 50px auto 0px auto;
 }
