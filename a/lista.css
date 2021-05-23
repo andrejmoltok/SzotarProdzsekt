@@ -8,13 +8,13 @@ body {
 /*Szavak linkjenek dekoracioja es szine*/
 a {
 	text-decoration: none;
-	color: #176300;
+	color: #0a2b00;
 	transition: color 1s ease;
 }
 
 a:visited {
 	text-decoration: none;
-	color: #176300;
+	color: #0a2b00;
 }
 
 a:hover {

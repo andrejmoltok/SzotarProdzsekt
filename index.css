@@ -43,13 +43,13 @@ h1 {
 /*Hivatkozas vagy link szine*/
 a {
 	text-decoration: none;
-	color: #176300;
+	color: #0a2b00;
 	transition: color 1s ease; /*Added transition instead of animation, works just right*/
 }
 
 a:visited {
 	text-decoration: none;
-	color: #176300;
+	color: #0a2b00;
 }
 
 a:hover {
