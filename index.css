@@ -7,7 +7,8 @@ body {
 
 /*felso szovegdoboz*/
 .center-felso {
-	width: 100%;
+	max-width: 100%;
+	width: 650px;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
@@ -25,7 +26,7 @@ body {
 h1 {
 	font-size: 42px;
 	font-weight: bold;
-	color: #660091; /*#c9970c*/
+	color: #41015d;
 }
 
 /*FlexBox*/
@@ -55,7 +56,7 @@ a:hover {
   	color: #000a7a;
 }
 
-/*Elso sor betuhalmaz(flex)*/
+/*Elso sor betuhalmaz(flex-wrap)*/
 .a {
 	padding: 10px  25px 10px 25px;
 	font-size: 132px;
@@ -86,7 +87,7 @@ a:hover {
 	font-size: 66px;
 }
 
-/*Masodik betuhalmaz(flex)*/
+/*Masodik betuhalmaz(flex-wrap)*/
 .g {
 	padding: 10px 25px 10px 25px;
 	font-size: 95px;
@@ -127,7 +128,7 @@ a:hover {
 	font-size: 105px;
 }
 
-/*Harmadik betuhalmaz(flex)*/
+/*Harmadik betuhalmaz(flex-wrap)*/
 .o {
 	padding: 10px 25px 10px 25px;
 	font-size: 108px;
@@ -158,7 +159,7 @@ a:hover {
 	font-size: 85px;
 }
 
-/*Negyedik betuhalmaz(flex)*/
+/*Negyedik betuhalmaz(flex-wrap)*/
 .u {
 	padding: 10px 25px 10px 25px;
 	font-size: 96px;

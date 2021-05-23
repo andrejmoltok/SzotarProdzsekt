@@ -26,18 +26,19 @@ a:hover {
 
 /*felso szovegdoboz*/
 .center-felso {
-	width: 100%;
+	max-width: 100%;
+	width: 650px;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 30px;
 }
 
-/*also szovegdoboz*/
-.center-also {
-	width: 100%;
-	text-align: center;
-	margin: 50px auto 0px auto;
+/*felso szovegdoboz szovege*/
+h1 {
+	font-size: 42px;
+	font-weight: bold;
+	color: #41015d;
 }
 
 /*Szavak listajanak kulseje*/
@@ -46,4 +47,12 @@ a:hover {
 	width: 650px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+/*also szovegdoboz*/
+.center-also {
+	max-width: 100%;
+	width: 500px;
+	text-align: center;
+	margin: 50px auto 0px auto;
 }

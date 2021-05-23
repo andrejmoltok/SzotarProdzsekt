@@ -1,12 +1,21 @@
+/*HTML egyeni szavak CSS beallitasai*/
+
+/*alap beallitasok*/
+
+@import url('https://fonts.googleapis.com/css2?family=Newsreader&display=swap');
+
 body {
-	background-color: #ad5805;
+	background-color: #ad5805; /*#bd7819*/
+	font-family: 'Newsreader', serif;
 }
 
+/*Egyeni cella szoveg beallitas*/
 td {
 	text-align: center;
 	color: #ff9100;
 }
 
+/*Link beallitasok*/
 a {
 	text-decoration: none;
 	color: #176300;
@@ -20,30 +29,35 @@ a:visited {
 
 a:hover {
 	text-decoration: underline;
-	/*animation-name: szinezo;
-  	animation-duration: 1s;
-  	animation-timing-function: linear;
-  	animation-iteration-count: 1;
-  	animation-direction: normal;
-  	animation-fill-mode: forwards;*/
   	color: #000a7a;
 }
 
+/*Tovabbi cella beallitasok*/
 tr, td {
 	border: 2px solid black;	
 	padding: 25px 55px 25px 55px;
 }
 
+/*felso szovegdoboz szovege*/
+h1 {
+	font-size: 42px;
+	font-weight: bold;
+	color: #41015d;
+}
+
+/*Tabla stilusok*/
 #mystyle {	
 	margin-left: auto;
 	margin-right: auto;
 	border-collapse: collapse;
 }
 
+/*Szo stilus beallitas*/
 #aszo {
 	font-size: 2.5em;
 }
 
+/*Navigacios menusor beallitas*/
 #navigator {
 	text-align: center;
 	color: #176300;
@@ -51,6 +65,17 @@ tr, td {
 	font-size: 2em;
 }
 
+/*Felso szovegdoboz beallitas*/
+.center-felso {
+	max-width: 100%;
+	width: 650px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+
+/*Also szovegdoboz beallitas*/
 .center-also {
 	max-width: 100%;
 	width: 400px;
