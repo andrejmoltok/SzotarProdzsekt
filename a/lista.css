@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader&display=swap');
+
+body {
+	background-color: #ad5805; /*#bd7819*/
+	font-family: 'Newsreader', serif;
+}
+
+a {
+	text-decoration: none;
+	color: #176300;
+	transition: color 1s ease;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #176300;
+}
+
+a:hover {
+	text-decoration: underline;
+  	color: #000a7a;
+}
+
+.lista {
+	max-width: 100%;
+	width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+}

@@ -9,7 +9,24 @@ td {
 
 a {
 	text-decoration: none;
-	color: #fcba03;
+	color: #176300;
+	transition: color 1s ease; /*Added transition instead of animation, works just right*/
+}
+
+a:visited {
+	text-decoration: none;
+	color: #176300;
+}
+
+a:hover {
+	text-decoration: underline;
+	/*animation-name: szinezo;
+  	animation-duration: 1s;
+  	animation-timing-function: linear;
+  	animation-iteration-count: 1;
+  	animation-direction: normal;
+  	animation-fill-mode: forwards;*/
+  	color: #000a7a;
 }
 
 tr, td {
@@ -29,16 +46,13 @@ tr, td {
 
 #navigator {
 	text-align: center;
-	color: #ff9100;
+	color: #176300;
 	margin: 25px 25px 25px 25px;
 	font-size: 2em;
 }
 
-#lab {
-	position: absolute;
+.center-also {
+	width: 100%;
 	text-align: center;
-	bottom: 20px;
-	left: 50%;
-	margin-left: -200px;
-	color: #ff9100;
+	margin: 50px auto 0px auto;
 }
