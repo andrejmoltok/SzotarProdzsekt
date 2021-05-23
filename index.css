@@ -14,6 +14,7 @@ body {
 	margin-bottom: 30px;
 }
 
+/*also szovegdoboz*/
 .center-also {
 	width: 100%;
 	text-align: center;
@@ -51,24 +52,8 @@ a:visited {
 
 a:hover {
 	text-decoration: underline;
-	/*animation-name: szinezo;
-  	animation-duration: 1s;
-  	animation-timing-function: linear;
-  	animation-iteration-count: 1;
-  	animation-direction: normal;
-  	animation-fill-mode: forwards;*/
   	color: #000a7a;
 }
-
-/*@keyframes szinezo {
-	0% {
-		color: #176300;
-	}
-	
-	100% {
-		color: #000a7a;
-	}
-}*/
 
 /*Elso sor betuhalmaz(flex)*/
 .a {

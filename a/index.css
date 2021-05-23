@@ -52,7 +52,8 @@ tr, td {
 }
 
 .center-also {
-	width: 100%;
+	max-width: 100%;
+	width: 400px;
 	text-align: center;
 	margin: 50px auto 0px auto;
 }
