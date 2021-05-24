@@ -39,6 +39,10 @@ h1 {
 	color: #41015d;
 }
 
+ul {
+	list-style-type: none;
+}
+
 /*Szavak listajanak kulseje*/
 .lista {
 	max-width: 100%;
