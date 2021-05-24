@@ -43,6 +43,10 @@ ul {
 	list-style-type: none;
 }
 
+li {
+	padding: 2px 0px 2px 0px;
+}
+
 /*Szavak listajanak kulseje*/
 .lista {
 	max-width: 100%;
