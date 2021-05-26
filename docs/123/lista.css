@@ -47,6 +47,7 @@ h1 {
 	font-size: 42px;
 	font-weight: bold;
 	color: #41015d;
+	text-shadow: 3px 3px 6px rgba(65, 1, 93, 1);
 }
 
 /*Rendezetlen lista es elem stilus*/

@@ -5,6 +5,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Newsreader&display=swap');
 
 body {
+	margin:  auto;
+	width:  850px;
+	height: auto;
 	background-color: #814204; /*#814204 contrast score 7,09; #ad5805 contrast score 4,61*/
 	font-family: 'Newsreader', serif;
 }
@@ -42,6 +45,7 @@ h1 {
 	font-size: 42px;
 	font-weight: bold;
 	color: #41015d;
+	text-shadow: 3px 3px 6px rgba(65, 1, 93, 1);
 }
 
 /*Tabla stilusok*/
