@@ -1,8 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Newsreader&display=swap');
 
-body {
-	background-color: #814204; /*#ad5805  #bd7819*/
-	font-family: 'Newsreader', serif;
+html, body, .grid-container { width: 100%; height: auto; margin: auto; background-color: #814204; /*#ad5805  #bd7819*/
+	font-family: 'Newsreader', serif;}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    ". . . . .";
+  /*border: 2px solid #41015d; #814204*/
 }
 
 /*Szavak linkjenek dekoracioja es szine*/
