@@ -28,6 +28,7 @@ h1 {
 	font-size: 42px;
 	font-weight: bold;
 	color: #d2bdff;
+	text-shadow: 4px 4px 5px rgba(65, 1, 93, 1);
 }
 
 /*FlexBox*/
