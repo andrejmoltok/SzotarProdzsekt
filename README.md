@@ -1,7 +1,5 @@
 # SzotarProdzsekt
 
-## Kandabula emlékére
-
 *Értelmetlenező* szótár staféta
 
 Az alábbi linken elérhető és szerkeszthető a szótári másolat a fórumról(szó,beküldő, magyarázó, magyarázat, dátum):
