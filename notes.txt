@@ -1,0 +1,4 @@
+1.kell csinálni egy sablont.
+2.object-be beírni az adatokat
+3.beolvasni az objektumból a weboldalas slideshow-ba ay adatokat
+    vagy beolvasni az adatokat direkt a Google Sheets-ből

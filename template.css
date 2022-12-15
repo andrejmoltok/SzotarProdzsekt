@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, sans-serif; 
+  margin: auto;
+  background-color: #814204;
+}
+
+.mySlides {
+  display: block;
+  border-radius: 2%;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 800px;
+  position: relative;
+  margin: 100px auto auto auto;
+  display: flex;
+  flex-direction: column wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+#halan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 100px;
+  border: 1px solid purple;
+}
+
+#magy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 100px;
+  border: 1px solid purple;
+}
+
+#adat {
+  display: flex;
+  flex-direction: row wrap;
+  justify-content: space-evenly;
+  text-align: center;
+  width: 500px;
+  border: 1px solid purple;
+}
+
+#adatsz1 {
+  display: flex;
+  flex-direction: column;
+}
+
+#adatsz1 > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 50px;
+}
+
+#adatsz2 {
+  display: flex;
+  flex-direction: column;
+}
+
+#adatsz2 > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 50px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 35%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.prev {
+  left: 200px;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 200px;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+  text-decoration: none;
+  text-shadow: 5px 4px 5px #d2bdff; 
+}
