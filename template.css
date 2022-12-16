@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: Verdana, sans-serif; 
+  font-family: 'Ubuntu', sans-serif;
   margin: auto;
   background-color: #814204;
 }
@@ -15,31 +17,49 @@ body {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 800px;
-  position: relative;
-  margin: 100px auto auto auto;
+  max-width: 1000px;
+  margin: auto;
   display: flex;
   flex-direction: column wrap;
   justify-content: center;
   text-align: center;
 }
 
-#halan {
+#center-felso {
+  margin: auto;
+	width: 100%;
+	text-align: center;
+}
+
+#jump {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#main {
+  width: 100%;
   display: flex;
+  flex-direction: row nowrap;
   justify-content: center;
   align-items: center;
-  width: 500px;
-  height: 100px;
+}
+
+#halan, #magy {
+  display: flex;
+  justify-content: center;
+  width: 1000px;
   border: 1px solid purple;
 }
 
-#magy {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 500px;
+#halan {
   height: 100px;
-  border: 1px solid purple;
+  align-items: center;
+}
+
+#magy {
+  min-height: 320px;
+  /* overflow-y: scroll; */
+  font-size: 18px;
 }
 
 #adat {
@@ -47,42 +67,35 @@ body {
   flex-direction: row wrap;
   justify-content: space-evenly;
   text-align: center;
-  width: 500px;
+  width: 100%;
   border: 1px solid purple;
+  font-size: 18px;
 }
 
-#adatsz1 {
+#adatsz1, #adatsz2 {
   display: flex;
   flex-direction: column;
 }
 
-#adatsz1 > div {
+#adatsz1 > div, #adatsz2 > div {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100px;
-  height: 50px;
-}
-
-#adatsz2 {
-  display: flex;
-  flex-direction: column;
-}
-
-#adatsz2 > div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 150px;
+  width: 120px;
   height: 50px;
 }
 
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
-  position: absolute;
-  top: 35%;
+  position: relative;
+  top: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   width: auto;
+  height: 50px;
   padding: 16px;
   margin-top: -22px;
   color: white;
@@ -93,19 +106,68 @@ body {
   user-select: none;
 }
 
-.prev {
-  left: 200px;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 200px;
-  border-radius: 3px 0 0 3px;
-}
-
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
   text-decoration: none;
   text-shadow: 5px 4px 5px #d2bdff; 
+}
+
+#lapoz {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+@media all and (max-width: 1084px) {
+  #halan, #magy {
+    width: 800px;
+  }
+  #magy {
+    height: 330px;
+  }
+}
+
+@media all and (max-width: 984px) {
+  #halan, #magy {
+    width: 700px;
+  }
+  #magy {
+    height: 330px;
+  }
+}
+
+@media all and (max-width: 784px) {
+  #halan, #magy {
+    width: 600px;
+  }
+  #magy {
+    height: 330px;
+  }
+  #adat {
+    font-size: 22px;
+  }
+}
+
+@media all and (max-width: 684px) {
+  #halan, #magy {
+    width: 500px;
+  }
+  #magy {
+    height: 330px;
+  }
+  #adat {
+    font-size: 22px;
+  }
+}
+
+@media all and (max-width: 584px) {
+  #halan, #magy {
+    width: 350px;
+  }
+  #adat {
+    font-size: 22px;
+  }
 }
