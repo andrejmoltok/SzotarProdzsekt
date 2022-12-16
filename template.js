@@ -3326,7 +3326,7 @@ const ugrasBe = document.getElementById('ugrasBemenet');
 const ugrasGomb = document.getElementById('ugrasGomb');
 
 ugrasGomb.addEventListener('click',function() {
-    if (ugrasBe.value > adatok.length) {
+    if (ugrasBe.value > adatok.length-1) {
         alert('Nincs ennyi szó.');
     } else if (ugrasBe.value < 0) {
         alert('Mínuszba értelmetlen menni...');
@@ -3380,8 +3380,23 @@ function showSlides(n) {
 
   halan.innerHTML = `<h1>${adatok[n]['halan']}</h1>`;
   magy.innerHTML = `${adatok[n]['magy']}`;
-  bekuldo2.innerText = adatok[n]['bekuldo2'];
+  if (adatok[n]["bekuldo2"] === undefined) {
+    bekuldo2.innerText = 'Ismeretlen';
+  } else {
+    bekuldo2.innerText = adatok[n]['bekuldo2'];
+  }
   magyarazo2.innerText = adatok[n]['magyarazo2'];
   datum2.innerText = adatok[n]['datum2'].slice(0,10);
 }
 
+
+// let bekuldo = 0; let magyarazo = 0;
+// for (let i = 0; i < adatok.length; i++) {
+//     if (adatok[i]['bekuldo2'] == "kandabula" || adatok[i]['bekuldo2'] == "Kandabula") {
+//         bekuldo++;
+//     }
+//     if (adatok[i]['magyarazo2'] == 'Kandabula' || adatok[i]['magyarazo2'] == "kandabula") {
+//         magyarazo++;
+//     }
+// }
+// console.log(bekuldo, magyarazo);
