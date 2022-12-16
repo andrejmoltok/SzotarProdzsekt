@@ -1,0 +1,27 @@
+{
+  "name": "szotarprodzsekt",
+  "version": "1.0.0",
+  "description": "ertelmetlenezo szotar",
+  "main": "stat.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejmoltok/SzotarProdzsekt.git"
+  },
+  "keywords": [
+    "szotar",
+    "prodzsekt"
+  ],
+  "author": "Ciocan Pal Andras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrejmoltok/SzotarProdzsekt/issues"
+  },
+  "homepage": "https://github.com/andrejmoltok/SzotarProdzsekt#readme",
+  "type": "module"
+}
