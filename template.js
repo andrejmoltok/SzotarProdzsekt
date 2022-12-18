@@ -7,6 +7,7 @@ const ugrasBe = document.getElementById('ugrasBemenet');
 const ugrasGomb = document.getElementById('ugrasGomb');
 
 let slideIndex = 0;
+let index = [];
 
 ugrasGomb.addEventListener('click',function() {
     if (ugrasBe.value > szotar.length-1) {
@@ -15,10 +16,10 @@ ugrasGomb.addEventListener('click',function() {
         alert('Mínuszba értelmetlen menni...');
     }
     showSlides(ugrasBe.value);
-    slideIndex = ugrasBe.value;
+    index.push(ugrasBe.value);
+    console.log(index);
     ugrasBe.value = '';
 });
-
 
 showSlides(slideIndex);
 
@@ -33,6 +34,8 @@ function plusSlides(n) {
     showSlides(slideIndex += n);
   } 
 }
+
+globalThis.plusSlides = plusSlides;
 
 function showSlides(n) {
   let halan = document.getElementById('halan');
@@ -49,12 +52,24 @@ function showSlides(n) {
   let my784 = window.matchMedia("(max-width: 784px)");
   let my984 = window.matchMedia("(max-width: 984px)");
   let my1084 = window.matchMedia("(max-width: 1084px)");
+  let myMin1084 = window.matchMedia("(min-width: 1084px)");
   if (Math.round(text.width) > 2000 && my584.matches === true) {
     magy.style.overflowY = "scroll";
+    magy.style.alignItems = "normal";
     magy.style.height = "350px";
   } else if (Math.round(text.width) > 3800 && my684.matches === true) {
     magy.style.overflowY = "scroll";
+    magy.style.alignItems = "normal";
   } else if (Math.round(text.width) > 4300 && my784.matches === true){
+    magy.style.overflowY = "scroll";
+    magy.style.alignItems = "normal";
+  } else if (Math.round(text.width) > 7000 && my984.matches === true) {
+    magy.style.overflowY = "scroll";
+    magy.style.alignItems = "normal";
+  } else if (Math.round(text.width) > 7000 && my1084.matches === true) {
+    magy.style.overflowY = "scroll";
+    magy.style.alignItems = "normal";
+  } else if (Math.round(text.width) > 7000 && myMin1084.matches === true) {
     magy.style.overflowY = "scroll";
     magy.style.alignItems = "normal";
   } else {
@@ -63,12 +78,14 @@ function showSlides(n) {
   }
 
   halan.innerHTML = `<h1>${szotar[n]['halan']}</h1>`;
-  magy.innerHTML = `${szotar[n]['magy']}`;
+  magy.innerText = szotar[n]['magy'];
+
   if (szotar[n]["bekuldo2"] === undefined) {
     bekuldo2.innerText = 'Ismeretlen';
   } else {
     bekuldo2.innerText = szotar[n]['bekuldo2'];
   }
+
   magyarazo2.innerText = szotar[n]['magyarazo2'];
   datum2.innerText = szotar[n]['datum2'].slice(0,10);
 }
