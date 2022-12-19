@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<title>ABC - Szótár Prodzsekt</title>
+
+    	<meta charset="UTF-8">
+
+    	<link rel="stylesheet" type="text/css" href="./abc.css">
+		<link rel="stylesheet" type="text/css" href="../template.css">
+	</head>
+	<body>
+
+	<div class="center-felso">
+		<h1>Értelmetlenező Szótár Prodzsekt</h1>
+		<h3>Kandabula emlékére</h3>
+	</div>
+	
+	<div class="abc">
+			<div class="a"><a onclick="selectLetterGroup('a')">A,Á</a></div>
+			<div class="b"><a onclick="selectLetterGroup('b')">B</a></div>
+			<div class="c"><a onclick="selectLetterGroup('c')">C,Cs</a></div>
+			<div class="d"><a onclick="selectLetterGroup('d')">D,Dz,Dzs</a></div>
+			<div class="e"><a onclick="selectLetterGroup('e')">E, É</a></div>
+			<div class="f"><a onclick="selectLetterGroup('f')">F</a></div>
+			<div class="g"><a onclick="selectLetterGroup('g')">G,Gy</a></div>
+			<div class="h"><a onclick="selectLetterGroup('h')">H</a></div>
+			<div class="i"><a onclick="selectLetterGroup('i')">I, Í</a></div>
+			<div class="j"><a onclick="selectLetterGroup('j')">J</a></div>
+			<div class="k"><a onclick="selectLetterGroup('k')">K</a></div>
+			<div class="l"><a onclick="selectLetterGroup('l')">L,Ly</a></div>
+			<div class="m"><a onclick="selectLetterGroup('m')">M</a></div>
+			<div class="n"><a onclick="selectLetterGroup('n')">N,Ny</a></div>			
+			<div class="o"><a onclick="selectLetterGroup('o')">O,Ó,Ö,Ő</a></div>
+			<div class="q"><a onclick="selectLetterGroup('q')">Q</a></div>
+			<div class="p"><a onclick="selectLetterGroup('p')">P</a></div>
+			<div class="r"><a onclick="selectLetterGroup('r')">R</a></div>
+			<div class="s"><a onclick="selectLetterGroup('s')">S,Sz</a></div>
+			<div class="t"><a onclick="selectLetterGroup('t')">T,Ty</a></div>
+			<div class="u"><a onclick="selectLetterGroup('u')">U,Ú,Ü,Ű</a></div>
+			<div class="v"><a onclick="selectLetterGroup('v')">V,W</a></div>
+			<div class="x"><a onclick="selectLetterGroup('x')">X</a></div>
+			<div class="y"><a onclick="selectLetterGroup('y')">Y</a></div>
+			<div class="z"><a onclick="selectLetterGroup('z')">Z,Zs</a></div>
+	</div>
+
+	<div id="jump">
+		<div><a href="../template.html">Időrend</a></div>
+		<div><a href="../stat.html">Statisztika</a></div>
+		<div id="oldal"></div>
+	</div>
+
+	<div id="main">
+        <div class="prev"><a onclick="plusSlides(-1)"><</a></div>
+        <div class="slideshow-container">
+        <div class="mySlides">
+          <div id="halan"><h1>Válassz ki egy betűt fentről</h1></div>
+          <div id="magy"></div>
+          <div id="adat">
+            <div id="adatsz1">
+              <div id="bekuldo1">Beküldő:</div>
+              <div id="magyarazo1">Magyarázó:</div>
+              <div id="datum1">Dátum:</div>
+            </div>
+            <div id="adatsz2">
+              <div id="bekuldo2"></div>
+              <div id="magyarazo2"></div>
+              <div id="datum2"></div>
+            </div>
+          </div>
+        </div>
+        </div>
+        <div class="next"><a onclick="plusSlides(1)">></a></div>
+      </div>
+	<canvas id="canvas" style="width:0;height: 0;"></canvas>
+	<script type="module" src="./abc.js" defer></script>
+	</body>
+</html>

@@ -45,7 +45,7 @@ function showSlides(n) {
   let datum2 = document.getElementById('datum2');
 
   console.log("Oldalszám: ",n);
-  oldal.innerText = (n+1) + "./" + (szotar.length+1) + ". oldal";
+  oldal.innerText = (n+1) + " / " + (szotar.length+1) + ". oldal";
   
   let text = ctx.measureText(szotar[n]['magy']);
   console.log('Szöveg szélesség:',Math.round(text.width));

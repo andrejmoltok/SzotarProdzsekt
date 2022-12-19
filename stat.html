@@ -6,17 +6,27 @@
         <title>Értelmetlenező Szótár - Statisztika</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="./template.css">
+        <link rel="stylesheet" href="./stat.css">
     </head>
     <body>
+        <div id="center-felso">
+            <h1>Értelmetlenező Szótár</h1>
+        </div>
         <div id="container">
             <div>
-                <canvas id="bekuldo"></canvas>
+                <div class="p">Legtöbb beküldő statja</div>
+                <div>
+                    <canvas id="bekuldo"></canvas>
+                </div>
             </div>
             <div>
-                <canvas id="magyarazo"></canvas>
+                <div class="p">Legtöbb magyarázó statja</div>
+                <div>
+                    <canvas id="magyarazo"></canvas>
+                </div>
             </div>
         </div>
-        <script src="stat.js"></script>
+        <script type="module" src="stat.js"></script>
     </body>
 </html>
