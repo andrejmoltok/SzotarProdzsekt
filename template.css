@@ -40,11 +40,8 @@ body {
 }
 
 #jump {
-  width: 1000px;
-  margin-left: 6%;
-  margin-right: 6%;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  width: 100%;
+  margin: 10px auto;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -120,6 +117,14 @@ body {
   text-shadow: 5px 4px 5px #d2bdff; 
 }
 
+#footer {
+  position: absolute;
+  top: 690px;
+  margin: 20px auto;
+  width: 100%;
+  text-align: center;
+}
+
 #lapoz {
   margin: auto;
   width: 1000px;
@@ -127,14 +132,14 @@ body {
 
 #myHREF {
   position: absolute;
-  top: 450px;
+  top: 430px;
   left: 50%;
   transform: translate(-50%,-50%);
 }
 
 img {
-  width: 800px;
-  height: 600px;
+  width: 500px;
+  height: 400px;
   object-fit: contain;
 }
 
@@ -186,5 +191,11 @@ img {
   }
   #adat {
     font-size: 22px;
+  }
+  #jump {
+    justify-content: center;
+  }
+  #oldal {
+    margin-left: 10px;
   }
 }
