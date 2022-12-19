@@ -7,7 +7,7 @@ const ugrasBe = document.getElementById('ugrasBemenet');
 const ugrasGomb = document.getElementById('ugrasGomb');
 
 let slideIndex = 0;
-let index = [];
+
 
 ugrasGomb.addEventListener('click',function() {
     if (ugrasBe.value > szotar.length-1) {
@@ -15,9 +15,7 @@ ugrasGomb.addEventListener('click',function() {
     } else if (ugrasBe.value < 0) {
         alert('Mínuszba értelmetlen menni...');
     }
-    showSlides(ugrasBe.value);
-    index.push(ugrasBe.value);
-    console.log(index);
+    plusSlides(ugrasBe.value);
     ugrasBe.value = '';
 });
 
@@ -31,7 +29,7 @@ function plusSlides(n) {
     slideIndex = szotar.length-1;
     showSlides(slideIndex);
   } else {
-    showSlides(slideIndex += n);
+    showSlides(slideIndex += +n);
   } 
 }
 
@@ -43,7 +41,7 @@ function showSlides(n) {
   let bekuldo2 = document.getElementById('bekuldo2');
   let magyarazo2 = document.getElementById('magyarazo2');
   let datum2 = document.getElementById('datum2');
-  console.log(n);
+  console.log("Slide Number: ",n);
 
   let text = ctx.measureText(szotar[n]['magy']);
   console.log('Szöveg szélesség:',Math.round(text.width));
