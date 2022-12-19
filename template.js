@@ -6,6 +6,8 @@ const ctx = canvas.getContext("2d");
 const ugrasBe = document.getElementById('ugrasBemenet');
 const ugrasGomb = document.getElementById('ugrasGomb');
 
+const oldal = document.getElementById('oldal');
+
 let slideIndex = 0;
 
 ugrasGomb.addEventListener('click',function() {
@@ -30,6 +32,7 @@ function plusSlides(n) {
     showSlides(slideIndex);
   } else {
     showSlides(slideIndex += n);
+    oldal.innerText = (slideIndex+1) + ". oldal";
   } 
 }
 
@@ -43,7 +46,8 @@ function showSlides(n) {
   let datum2 = document.getElementById('datum2');
 
   console.log("Oldalszám: ",n);
-
+  oldal.innerText = (slideIndex+1) + ". oldal";
+  
   let text = ctx.measureText(szotar[n]['magy']);
   console.log('Szöveg szélesség:',Math.round(text.width));
 
