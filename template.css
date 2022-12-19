@@ -10,6 +10,14 @@ body {
   background-color: #814204;
 }
 
+#main {
+  width: 100%;
+  display: flex;
+  flex-direction: row nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
 .mySlides {
   display: block;
   border-radius: 2%;
@@ -36,19 +44,12 @@ body {
   margin-bottom: 10px;
 }
 
-#main {
-  width: 100%;
-  display: flex;
-  flex-direction: row nowrap;
-  justify-content: center;
-  align-items: center;
-}
 
 #halan, #magy {
   display: flex;
   justify-content: center;
   width: 1000px;
-  border: 1px solid purple;
+  border: 2px solid purple;
 }
 
 #halan {
@@ -68,7 +69,7 @@ body {
   justify-content: space-evenly;
   text-align: center;
   width: 100%;
-  border: 1px solid purple;
+  border: 2px solid purple;
   font-size: 18px;
 }
 

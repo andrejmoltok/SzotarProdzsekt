@@ -8,14 +8,14 @@ const ugrasGomb = document.getElementById('ugrasGomb');
 
 let slideIndex = 0;
 
-
 ugrasGomb.addEventListener('click',function() {
     if (ugrasBe.value > szotar.length-1) {
         alert('Nincs ennyi szó.');
     } else if (ugrasBe.value < 0) {
         alert('Mínuszba értelmetlen menni...');
     }
-    plusSlides(ugrasBe.value);
+    slideIndex = 0;
+    plusSlides(+ugrasBe.value);
     ugrasBe.value = '';
 });
 
@@ -29,7 +29,7 @@ function plusSlides(n) {
     slideIndex = szotar.length-1;
     showSlides(slideIndex);
   } else {
-    showSlides(slideIndex += +n);
+    showSlides(slideIndex += n);
   } 
 }
 
@@ -41,16 +41,19 @@ function showSlides(n) {
   let bekuldo2 = document.getElementById('bekuldo2');
   let magyarazo2 = document.getElementById('magyarazo2');
   let datum2 = document.getElementById('datum2');
-  console.log("Slide Number: ",n);
+
+  console.log("Oldalszám: ",n);
 
   let text = ctx.measureText(szotar[n]['magy']);
   console.log('Szöveg szélesség:',Math.round(text.width));
+
   let my584 = window.matchMedia("(max-width: 584px)");
   let my684 = window.matchMedia("(max-width: 684px)");
   let my784 = window.matchMedia("(max-width: 784px)");
   let my984 = window.matchMedia("(max-width: 984px)");
   let my1084 = window.matchMedia("(max-width: 1084px)");
   let myMin1084 = window.matchMedia("(min-width: 1084px)");
+
   if (Math.round(text.width) > 2000 && my584.matches === true) {
     magy.style.overflowY = "scroll";
     magy.style.alignItems = "normal";
