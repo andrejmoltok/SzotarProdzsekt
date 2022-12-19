@@ -34,12 +34,31 @@ function init(con,ctx) {
     }
 }
 
-function bekuldoCounter(user) {
-    let count = 0;
-    let arr = [];
+function names() {
+    let nameSet = new Set();
     for (let i = 0; i < szotar.length; i++) {
-
+        if (szotar[i].bekuldo2 === undefined) {continue}
+        nameSet.add(szotar[i].bekuldo2);
     }
+    return [...nameSet];
+}
+
+console.log(names());
+bekuldoCounter();
+
+function bekuldoCounter(user) {
+    let count;
+    let arr = [];
+    for (let i = 0; i < names().length; i++) {
+        count = 0;
+        for (let j = 0; j < szotar.length; j++) {
+            if (szotar[j].bekuldo2 === names()[i]) {
+                count++;
+            }
+        }
+        arr.push([user,count]);
+    }
+    console.log(arr);
 }
 
 function magyarazoCounter() {
