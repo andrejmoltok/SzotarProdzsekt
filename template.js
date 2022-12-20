@@ -59,6 +59,7 @@ function showSlides(n) {
 
   if (Math.round(text.width) > 2000 && my584.matches === true) {
     magy.style.overflowY = "scroll";
+    magy.style.overflowX = "scroll";
     magy.style.alignItems = "normal";
     magy.style.height = "350px";
   } else if (Math.round(text.width) > 3800 && my684.matches === true) {

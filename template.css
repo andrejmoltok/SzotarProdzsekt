@@ -56,7 +56,7 @@ body {
 }
 
 #halan {
-  height: 100px;
+  max-height: 250px;
   align-items: center;
 }
 

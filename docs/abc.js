@@ -158,26 +158,33 @@ function groupSlides(n) {
     let myMin1084 = window.matchMedia("(min-width: 1084px)");
   
     if (Math.round(text.width) > 2000 && my584.matches === true) {
-      magy.style.overflowY = "scroll";
       magy.style.alignItems = "normal";
+      magy.style.overflowY = "scroll";
+      magy.style.overflowX = "scroll";
       magy.style.height = "350px";
     } else if (Math.round(text.width) > 3800 && my684.matches === true) {
       magy.style.overflowY = "scroll";
+      magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
     } else if (Math.round(text.width) > 4300 && my784.matches === true){
       magy.style.overflowY = "scroll";
+      magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
     } else if (Math.round(text.width) > 7000 && my984.matches === true) {
       magy.style.overflowY = "scroll";
+      magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
     } else if (Math.round(text.width) > 7000 && my1084.matches === true) {
       magy.style.overflowY = "scroll";
+      magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
     } else if (Math.round(text.width) > 7000 && myMin1084.matches === true) {
       magy.style.overflowY = "scroll";
+      magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
     } else {
       magy.style.overflowY = "hidden";
+      magy.style.overflowX = "hidden";
       magy.style.alignItems = "center";
     }
   
