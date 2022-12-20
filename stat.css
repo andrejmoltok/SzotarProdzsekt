@@ -2,7 +2,7 @@
     margin: auto;
     width: 100%;
     display: flex;
-    flex-flow: row;
+    flex-flow: row wrap;
     justify-content: center;
     gap: 100px;
 }
@@ -10,4 +10,10 @@
 .p {
     margin-bottom: 20px;
     text-align: center;
+}
+
+@media all and (max-width: 625px) {
+    #bekuldo, #magyarazo {
+        width: 450px;
+    }
 }

@@ -115,7 +115,7 @@ function selectLetterGroup(letter) {
         }
     }
     for (let i = 0; i < newGroup.length; i++) {
-        sorted = newGroup.sort(function(a,b) {return a.halan.localeCompare(b.halan)});
+      sorted = newGroup.sort((a,b) => a.halan.localeCompare(b.halan))
     }
     console.log(sorted);
     groupSlides(slideIndex);
@@ -147,7 +147,7 @@ function groupSlides(n) {
     console.log("Oldalszám: ",n);
     oldal.innerText = (n) + " / " + (sorted.length-1) + ". oldal";
     
-    let text = ctx.measureText(sorted[n].magy);
+    let text = ctx.measureText(sorted[n]['magy']);
     console.log('Szöveg szélesség:',Math.round(text.width));
   
     let my584 = window.matchMedia("(max-width: 584px)");
