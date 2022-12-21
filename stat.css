@@ -13,7 +13,7 @@
 }
 
 @media all and (max-width: 625px) {
-    #bekuldo, #magyarazo {
-        width: 450px;
+    #container {
+        flex-flow: column;
     }
 }
