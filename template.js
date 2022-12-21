@@ -86,7 +86,7 @@ function showSlides(n) {
   magy.innerText = szotar[n]['magy'];
 
   if (szotar[n]["bekuldo2"] === undefined) {
-    bekuldo2.innerText = 'Ismeretlen';
+    bekuldo2.innerText = 'Törölt Tag';
   } else {
     bekuldo2.innerText = szotar[n]['bekuldo2'];
   }

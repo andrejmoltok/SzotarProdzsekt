@@ -117,7 +117,7 @@ function selectLetterGroup(letter) {
     for (let i = 0; i < newGroup.length; i++) {
       sorted = newGroup.sort((a,b) => a.halan.localeCompare(b.halan))
     }
-    console.log(sorted);
+    //console.log(sorted);
     groupSlides(slideIndex);
 }
 
@@ -192,7 +192,7 @@ function groupSlides(n) {
     magy.innerText = sorted[n].magy;
   
     if (sorted[n].bekuldo2 === undefined) {
-      bekuldo2.innerText = 'Ismeretlen';
+      bekuldo2.innerText = 'Törölt Tag';
     } else {
       bekuldo2.innerText = sorted[n].bekuldo2;
     }
