@@ -197,6 +197,11 @@ function groupSlides(n) {
       bekuldo2.innerText = sorted[n].bekuldo2;
     }
   
-    magyarazo2.innerText = sorted[n].magyarazo2;
+    if (szotar[n]["magyarazo2"] === undefined) {
+      magyarazo2.innerText = "Törölt Tag";
+    } else {
+      magyarazo2.innerText = szotar[n]['magyarazo2'];
+    }
+    
     datum2.innerText = sorted[n].datum2.slice(0,10);
 }
