@@ -45,3 +45,9 @@ function words(username) {
 }
 
 globalThis.words = words;
+
+function visitorCount(response) {
+    console.log("Latogatasok szama: ",response.value);
+}
+
+globalThis.visitorCount = visitorCount;

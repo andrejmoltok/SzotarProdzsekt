@@ -118,3 +118,9 @@ function showSlides(n) {
   
   datum2.innerText = szotar[n]['datum2'].slice(0,10);
 }
+
+function visitorCount(response) {
+  console.log("Latogatasok szama: ",response.value);
+}
+
+globalThis.visitorCount = visitorCount;

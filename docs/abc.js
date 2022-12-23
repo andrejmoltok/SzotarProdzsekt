@@ -219,3 +219,9 @@ function groupSlides(n) {
     
     datum2.innerText = sorted[n].datum2.slice(0,10);
 }
+
+function visitorCount(response) {
+  console.log("Latogatasok szama: ",response.value);
+}
+
+globalThis.visitorCount = visitorCount;
