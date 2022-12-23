@@ -20,17 +20,27 @@ function users() {
         userSet.add(szotar[i]["bekuldo2"]);
         userSet.add(szotar[i]["magyarazo2"]);
     }
-    console.log([...userSet]);
+    //console.log([...userSet]);
     userek = [...userSet];
     userek.forEach(function(v,i,a) {
         user.innerHTML += `<div id="${v}"><a onclick="words('${v}')">${v}</a></div>`;
+        let currUser = document.getElementById(v);
+        currUser.style.borderBottom = "2px solid #002349";
     });
 }
+
 
 function words(username) {
     const bekuld = document.getElementById('bekuld');
     const magy = document.getElementById('magy');
     
+    for (let i = 0; i < userek.length; i++) {
+        if (username === document.getElementById(username).id) {
+            document.getElementById(username).style.borderBottom = "2px solid white";
+        }
+        document.getElementById(userek[i]).style.borderBottom = "2px solid #002349";
+    }
+
     bekuld.innerHTML = '';
     magy.innerHTML = '';
     

@@ -24,6 +24,11 @@ body {
     justify-content: space-around;
 }
 
+/* #users {
+    color: #002349;
+    background-color: #957C3D;
+} */
+
 #bekuldott, #magyarazott {
     display: flex;
     flex-flow: column nowrap;
