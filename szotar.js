@@ -3309,6 +3309,2028 @@ let szotar = [
         "magyarazo2": "Cseszlovak",
         "magy": "igen-igen, rizsből készült alsószoknya, amit főképp nők viseltek, s többnyire kétkezi földműves munkáknál. jobban megvédte őket ez \na brit találmány a földikutyáktól, s egyéb földközeli martalócoktól, mint a sima vászonból s egyebekből készített.",
         "datum2": "2019-02-06T23:00:00.000Z"
+    },
+    {
+        "halan": "méka",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "ereri",
+        "magy": "X. Y. Z. nagyfokú empatikus- és még kiemelkedőbb mértékben praktikus készségeiről tett tanúbizonyságot, amikor kifejlesztette és létrehozta eme \nhiánypótló eszközt, amelyet elsősorban az addigra szinte már gyakorlatilag kihalófélben lévő kalózok mindennapjainak megkönnyítését célzandó \ntervezett meg. Koravén és ugyanakkor rendkívül humánus vízióiban, emlékiratai szerint, ködösen már gyerekként is látta ezt az alsó végtag \nhelyettesítésére szánt, háromágú horgonyban végződő, egyedi és stílusos protézistípust. Irigyei viszont elszántan támadták e forradalmi újításért, \nmondván, hogy az ún. „kampókéz” koppintása, azonban e képtelen rágalmakat az idős mester haláláig, következetesen elutasította. Sőt, \nbár élete főművéből egyetlen árva darabot sem tudott értékesíteni, noha 112 évig küzdött - a szerinte alanyi jogon kiérdemelt sikerért - \na becsületsértési pereket sorra megnyerte, így méltatlan utódaira a hírnevén kívül még horribilis pénzösszegeket is hagyományozhatott.",
+        "datum2": "2019-02-07T23:00:00.000Z",
+        "sorszam": 1
+    },
+    {
+        "halan": "bukedli",
+        "bekuldo2": "ereri",
+        "magyarazo2": "Cseszlovak",
+        "magy": "hamar feledésbe ment női köszönésforma, mely méltóságteljes volt ugyan, ám felettébb veszélyes: térdhajlítás és fejleszegés során ugyanis \nazok, akiknek bukedliztek, rendre átestek a hölgyeken, ezzel nem kis zavart és kavart okozva - hiszen egyidejűleg nekik is fejet kellett hajtaniuk \nés egy lépést tenni a bukedlizők felé. szerencsére kidolgozták a jóval ártalmatlanabb és szelídebb variánsát is, amely aztán még sokáig divatban \nmaradt.",
+        "datum2": "2019-02-07T23:00:00.000Z",
+        "sorszam": 2
+    },
+    {
+        "halan": "bendéla",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Edeke",
+        "magy": "Ez egy ámító szó. Ámítástechnikán tanítják is, a parázsigét: Bendéla, Bendéla, kendé a embléma...\" Állítólag ezzel meg lehet szerezni a kiszemelt hölgyet, \ntölgyet, ölyvet, vagy sörbet, bár ennek a legutolsónak sok éttermét nem látom, az inkább olyan büfé féle, már, ha értitek mire gondolok. Persze nem \nelég kimondani a parázsszót, fekete holdtölteürülékből kell katyvaszt kotyvasztani, és abba fecskebékalábat szórni, az se baj a nyers, csak friss \nne legyen. Ez a tuti recept. Mérget vehettek rá, oszt annyi...",
+        "datum2": "2019-02-07T23:00:00.000Z",
+        "sorszam": 3
+    },
+    {
+        "halan": "Sebi",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Kandabula",
+        "magy": "költőtársunk, a \"dikk\" feltalálója és következetes/kíméletlen használója. Munkássága - többek között - társadalmi igényt elégített ki. \nSzámítunk rá a jövőben is.",
+        "datum2": "2019-02-08T23:00:00.000Z",
+        "sorszam": 4
+    },
+    {
+        "halan": "serkentyés",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "ereri",
+        "magy": "Jóérzésű, az új ismeretekre rendkívül nyitott fiúgyerekek évszakoktól független szabadidő tevékenysége, amelynek során előbb pisztolycsővel legyet fognak,\n azt légmentesen percekig zümmögtetik, majd miután elhalkult kiengedik, ám eközben két apró mozdulattal az ártatlan, megszédült rovarkát röpképtelenné \nis teszik. Ezt követően a részvét legcsekélyebb jele nélkül hosszasan megfigyelik áldozatuk gyalogos vergődését, elé számos, változatos tereptárgyat \nhelyeznek és ordítva biztatják arra, hogy „Na most dörzsölgesd össze a praclid te …………..!” E megszólítás azonban korántsem standard – előfordulhat \nvetélytársak, tanárok stb. nevének behelyettesítése, továbbá az életkor, a vérmérséklet, a szókincs és a konkrét szituáció is gyakran jelentős mértékű \nbefolyásoló tényező lehet.",
+        "datum2": "2019-02-08T23:00:00.000Z",
+        "sorszam": 5
+    },
+    {
+        "halan": "nyúkkapikka",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Kandabula",
+        "magy": "ne! Mer mekszúr a bikka!",
+        "datum2": "2019-02-13T23:00:00.000Z",
+        "sorszam": 6
+    },
+    {
+        "halan": "potyymallás",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Edeke",
+        "magy": "Hallásháborúkat túlélt veterán heremerő erőszaktevő, hirtelen fordulattal alattomossá vedlett egylet egyedi ülésszakát figyelő elő ember. \nEgyszerűen portáska, ha becézzük, de ugye minek..... A mallás, csk később csapódott hozzá, ez abból is látszik, hogy a szó végén, és \nnem az elején van ugyebár.",
+        "datum2": "2019-02-14T23:00:00.000Z",
+        "sorszam": 7
+    },
+    {
+        "halan": "Kamatyos kamaty",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Kandabula",
+        "magy": "ez a házasság.",
+        "datum2": "2019-02-14T23:00:00.000Z",
+        "sorszam": 8
+    },
+    {
+        "halan": "örgyet",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Szederfalu",
+        "magy": "biztonsági személyzet szakszervezeti tömörülése. Gyakran fulladnak a gyűléseik ivászatba, ilyenkor új értelmet kap a nevük, ha kiürül poharuk, \nemígyen szólnak: no, igyunk még örgyet!",
+        "datum2": "2019-02-16T23:00:00.000Z",
+        "sorszam": 9
+    },
+    {
+        "halan": "laskatag",
+        "bekuldo2": "Szederfalu",
+        "magyarazo2": "Cseszlovak",
+        "magy": "az önkéntes gombaszakértők egyletében azon személyek titulusa, akik még igen kezdők, még nem nagyon ismerik a gombákat. ha erdőben jársz, \ngombát találsz, laskatagot nem érdemes megkérdezni, vajon ehető-e az, amit leszedtél...",
+        "datum2": "2019-02-17T23:00:00.000Z",
+        "sorszam": 10
+    },
+    {
+        "halan": "japyrsepi",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-02-17T23:00:00.000Z",
+        "sorszam": 11
+    },
+    {
+        "halan": "kunyerka",
+        "magyarazo2": "Szederfalu",
+        "magy": "újmagyar Mária-siralom. Női fegyver, fizetésnapok környékén a férjek, hónap végén a barátok, családtagok irányába használatos eszköz \nkülönböző szükségletek kielégítésére.",
+        "datum2": "2019-02-17T23:00:00.000Z",
+        "sorszam": 12
+    },
+    {
+        "halan": "kocsiszirén",
+        "bekuldo2": "Szederfalu",
+        "magyarazo2": "Edeke",
+        "magy": "Valhalla rég, egy messzi-messzi galakszisban, amikor, még nem találták fel az elektromos benzint, akkor a mentőautókon, meg a rendőrségin, \nsőt tovább megyek: Na sziasztok. hehe, jó poen volt, na mindegy. Szóval amikor nem volt ami működtesse, nem volt, még sziréna. De kifogták a szirént \naz óperencicás víztározóból, és amikor háromszor teljesítette mindenféle perverz kivánságukat a horgászoknak, kirakták vijjogni a kocsiderékra. \nInnen ered a későbbi sziréna kifejezés. Persze hajók orrán is feltűnnek eme nemes bichek (ez angolul van) de, az folyami baleset előidézésének \naz eredménye.",
+        "datum2": "2019-02-17T23:00:00.000Z",
+        "sorszam": 13
+    },
+    {
+        "halan": "Kresszhivatkozás",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Kandabula",
+        "magy": "régi bankrabló duma a bíróságon: jobbról jött a bank, beengedtem, beengedett. A többi kommersz.",
+        "datum2": "2019-02-17T23:00:00.000Z",
+        "sorszam": 14
+    },
+    {
+        "halan": "puniló",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Szederfalu",
+        "magy": "azaz II. (bölcs) Puniló a Niló dinasztia utolsó sarja. Uralkodása végén i. e. 276-ban Közép - Kelet Maharadzsisztánban bevezette a fanszőrzet \nfonási törvényt. Mivel a háremhölgyek fátylat hordtak, az uralkodó a fonatok milyenségéből ismert rá kedvenc ágyasaira. Ez a törvény évszázadokig \nfenn maradt. Bár fátylat már nem hordanak az ágyasok, csak az 1960-70 - es években bekövetkezett sze. x. uális forradalom hatására tüntek el \na fonatok. De úgy anblock. Simaliba.",
+        "datum2": "2019-02-17T23:00:00.000Z",
+        "sorszam": 15
+    },
+    {
+        "halan": "citromtic",
+        "bekuldo2": "Szederfalu",
+        "magyarazo2": "petreskati",
+        "magy": "Citromos tictac cukorka első fele a citromtic.",
+        "datum2": "2019-02-18T23:00:00.000Z",
+        "sorszam": 16
+    },
+    {
+        "halan": "fénymegálló",
+        "bekuldo2": "petreskati",
+        "magyarazo2": "Kandabula",
+        "magy": "az észmegálló hivatalos megnevezése a szirmai kőtáblákon. lásd: III. Hambár eredeti töredéke, ma már a múzeumok féltett kincse.",
+        "datum2": "2019-02-18T23:00:00.000Z",
+        "sorszam": 17
+    },
+    {
+        "halan": "nyillászárrás",
+        "bekuldo2": "Kandabula",
+        "datum2": "2019-02-19T23:00:00.000Z",
+        "sorszam": 18
+    },
+    {
+        "halan": "patyvasz",
+        "magyarazo2": "Kandabula",
+        "magy": "kódolt partizán-köszöntés. Azt jelenti, hogy a hidat sikerült felrobbantani, a németek erősítést kaptak, de Sztyopa bácsi reumája kiújult és \nkérik, hogy a mozijegyet őrizzék meg, mert háború után el lehet majd számolni.",
+        "datum2": "2019-02-19T23:00:00.000Z",
+        "sorszam": 19
+    },
+    {
+        "halan": "szolfánkos",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Edeke",
+        "magy": "A zenei cukrostészta (fánk) evés rendőrségi körökben leterjedt hagyományának nemzetközi elnevezése, húsvét harmadnapján, \nha az péntekre esik a keleti mondakörben.\n",
+        "datum2": "2019-02-19T23:00:00.000Z",
+        "sorszam": 20
+    },
+    {
+        "halan": "Hamogyány",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "petreskati",
+        "magy": "Kissé kesernyés gyógynövény, gyökeréből főzött gyógytorna gyülölködést semlegesít, főleg a Himalája vidékén terem, ahol még tisztább \na talaj és a levegő. Rendelhető a www.hanogyany.org honlapon keresztül. Vigyázat, már hamisítják.",
+        "datum2": "2019-02-20T23:00:00.000Z",
+        "sorszam": 21
+    },
+    {
+        "halan": "Szemerkény",
+        "bekuldo2": "petreskati",
+        "magyarazo2": "Kandabula",
+        "magy": "kis falu Szemer és Kény között, a Golyva partján. Egy csomó dologról híres.",
+        "datum2": "2019-02-20T23:00:00.000Z",
+        "sorszam": 22
+    },
+    {
+        "halan": "jajcica",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "petreskati",
+        "magy": "Eszemaztacsöppkisszád katagóriába tartozó udvarlási forma, flörtölés. Olykor veszélyes lehet, különösen bővérú nős férfiak szæmára.",
+        "datum2": "2019-02-23T23:00:00.000Z",
+        "sorszam": 23
+    },
+    {
+        "halan": "Csilicsaló",
+        "bekuldo2": "petreskati",
+        "magyarazo2": "Cseszlovak",
+        "magy": "borzasztóan erős csalamádé, és épp azért hívják csalónak, mert hamis paprika van benne, amely Magyarországon nem őshonos, \nellenben a magyar paprikáknál jóval csípősebb",
+        "datum2": "2019-02-23T23:00:00.000Z",
+        "sorszam": 24
+    },
+    {
+        "halan": "uströmpan",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Edeke",
+        "magy": "Most ez komoly? Ezt mindenki tudja! Béla! Te vagy az? Most szívatsz? Géza? Tibi? De köcsögök vagytok....áh, nem igaz, az ember kiteszi \na lelkét ti, meg ilyen baromsággal elcseszitek az egészet. Ki nem tudja mi az az uströman, ugyan, már...ha engem akartok megszívatni \nkelljetek fel, egy picit hamarabb, nem most jöttem le a falvédőről. Szemetek!",
+        "datum2": "2019-02-23T23:00:00.000Z",
+        "sorszam": 25
+    },
+    {
+        "halan": "Haculogilén",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Szederfalu",
+        "magy": "Na de fiúk... Ezt minden finn kocsmában tudják. Így kívánnak sok szerencsét és kivilágított sodrófát a hazainduló muslincáknak. Ez meg ugyanezt jelenti \ncsak a török nyelvjárásban.",
+        "datum2": "2019-02-23T23:00:00.000Z",
+        "sorszam": 26
+    },
+    {
+        "halan": "kombákomá",
+        "bekuldo2": "Szederfalu",
+        "magyarazo2": "Cseszlovak",
+        "magy": "ózambézi nyelvjárásban azt jelenti, hogy \"gyerünk, skacok, táncra perdüljünk iziben, mert még a végén hazamennek a zenészek!\"",
+        "datum2": "2019-02-23T23:00:00.000Z",
+        "sorszam": 27
+    },
+    {
+        "halan": "kutorda",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Szederfalu",
+        "magy": "a megszokottnál kisebb méretű farkas. odúkban lakik és bemerészkedik a városokba kukázni.",
+        "datum2": "2019-02-24T23:00:00.000Z",
+        "sorszam": 28
+    },
+    {
+        "halan": "zsemmagvas",
+        "bekuldo2": "Szederfalu",
+        "datum2": "2019-02-24T23:00:00.000Z",
+        "sorszam": 29
+    },
+    {
+        "halan": "picogó",
+        "magyarazo2": "Rozella",
+        "magy": "az ajaksípos népi hangszerek, mint pl. a tilinkó, a fűzfasíp, az okarina, a pánsíp, de főként a pikula tisztítására használt, kis nyeles csutak féle, \namit mielőtt a lyukakba dugtak, jól megköpködtek. Az ANTSZ 2015-ben higiéniai okokból végleg betiltotta a használatát. A népzenei fesztiválokon \nazóta jelképesen hármat köpnek a markukba a furulyások.",
+        "datum2": "2019-02-24T23:00:00.000Z",
+        "sorszam": 30
+    },
+    {
+        "halan": "csurmula",
+        "bekuldo2": "Rozella",
+        "magyarazo2": "petreskati",
+        "magy": "Speciális, kissé zselés köptető, garantáltan felold minden lerakódást. Ja, és az orrodat is tisztítsa....",
+        "datum2": "2019-02-25T23:00:00.000Z",
+        "sorszam": 31
+    },
+    {
+        "halan": "Viszonyattalan",
+        "bekuldo2": "petreskati",
+        "magyarazo2": "Edeke",
+        "magy": "Fosztóképzővel ellátott, alaptalanul meggyanusított férj. Ettől persze iszonyata lesz, kivéve, ha nem, mert akkor azt is elláthatjuk fosztóképzővel, \nígy lesz iszonyattalan. Van, még a víziszonyattalan is, de az nincs. Ne higyjetek el mindent ami géppel van írva. Lássátok el fosztóképzővel, \noszt annyi...",
+        "datum2": "2019-02-25T23:00:00.000Z",
+        "sorszam": 32
+    },
+    {
+        "halan": "Haculogilén",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "más néven voltmárium. egy olyan szervetlen vegyület, amely gyakran okoz dezsavüt az óvatlan felhasználónak.",
+        "datum2": "2019-02-25T23:00:00.000Z",
+        "sorszam": 33
+    },
+    {
+        "halan": "pönnöt",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Kandabula",
+        "magy": "az IKEA lapra-szerelt légyszarkeretezője. Érdekessége a dupla fogantyú és a fejtámasz.",
+        "datum2": "2019-02-26T23:00:00.000Z",
+        "sorszam": 34
+    },
+    {
+        "halan": "béllapráta",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Cseszlovak",
+        "magy": "ennek segítségével osztályozzák az emberi belekben található lapok mennyiségi és minőségi jellemzőit.",
+        "datum2": "2019-02-26T23:00:00.000Z",
+        "sorszam": 35
+    },
+    {
+        "halan": "usbalága",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Edeke",
+        "magy": "Latin szavak magyarral való helyettesítésére történő törekvés, egyik, ha nem a legismertebb manifesztációja. Latin orvosok igy hívják a \npenicilinkúrát. Ott ugyanis a hagyományos orvosi nyelvet ismerik a betegek is, és akkor egyből lejönne nekik amikor a doki seqghüIye.....",
+        "datum2": "2019-02-26T23:00:00.000Z",
+        "sorszam": 36
+    },
+    {
+        "halan": "héjakútmácsonya",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "a hagyományos kerekes kutaknak volt ez egy olyan alkatrésze, amely a vízkiemelést még könnyebbé, praktikusabbá, egyszerűbbé tette, de \negyszer csak leesett a kútkerékről, a béres utánakapott, de már csak konstatálni tudta, hogy oda lett!",
+        "datum2": "2019-02-28T23:00:00.000Z",
+        "sorszam": 37
+    },
+    {
+        "halan": "patamatikus",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Edeke",
+        "magy": "Az apatikusság egyik alfaja, ami egy téma elérdektelenedését, mellőzöttségét jelöli. Tünetei, a hanyag anyagtalan lagymatag vaczakság, ez eredő, \nerdei bendőzetlen kedőzetlenség, egyszóval a patamatikus hozzáállás. Gyógyítása hagyományos orvosi módszerekkel nem lehetséges, egyedül \negy észak-afrikai kinntszülött törzs vajákos varázslója fejvesztve kifejlesztett módszere hatékony, azaz, el lesz fenekelve, aki hanyagolja ezt \na témát. Kivéve azt aki a fenekelést élvezi, mert aná...jaj bocsánat, annál ez hatékonytalan.",
+        "datum2": "2019-03-01T23:00:00.000Z",
+        "sorszam": 38
+    },
+    {
+        "halan": "Sort! Zúzát! Kékességet!",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "A BAROM, azaz Baromfitenyésztők Országos Mozgalmának hármas jelszava.",
+        "datum2": "2019-03-01T23:00:00.000Z",
+        "sorszam": 39
+    },
+    {
+        "halan": "stőccikkli",
+        "bekuldo2": "Molnar-Jolan",
+        "magyarazo2": "Kandabula",
+        "magy": "a harmincas évek híres reklámszövege volt: \"Ha már graccsni nincs is, stőccikkli még mindig van!\"",
+        "datum2": "2019-03-01T23:00:00.000Z",
+        "sorszam": 40
+    },
+    {
+        "halan": "huzumuszurmu",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Szederfalu",
+        "magy": "afrikai törzsek harci kiáltása. Ma már leginkább csak a tűz körüli tánc után kerül elő, mikor egyik harcos szemet vet a másik asszonyára, \nezzel a felkiáltással esnek egymásnak. Végtére is jó buli nincsen balhé nélkül.",
+        "datum2": "2019-03-01T23:00:00.000Z",
+        "sorszam": 41
+    },
+    {
+        "halan": "aukar",
+        "bekuldo2": "Szederfalu",
+        "magyarazo2": "Edeke",
+        "magy": "Au-Pairként kezelt ember, egy erőszakos családban. Azaz, ugyan úgy verik, mint a saját rokonokat. Van aufej, aupofon, auseqqberúgás. \nAz állatvédőkön kívül, szinte minden emberjogi szervezet beadta tiltakozását eme forma ellen, ők is, csak azért nem, mert ugye embereket \nbántalmaznak, az, meg kiesik a hatókörükből.",
+        "datum2": "2019-03-02T23:00:00.000Z",
+        "sorszam": 42
+    },
+    {
+        "halan": "Pályázati nyers",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "szépirodalmi pályázatokra beküldött műalkotások közismertebb neve. az esetek többségében 100%-ban fedi a valóságot.",
+        "datum2": "2019-03-02T23:00:00.000Z",
+        "sorszam": 43
+    },
+    {
+        "halan": "sedő",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "petreskati",
+        "magy": "Fűszernövény, mely ritka helyeken terem meg, ezért az előszócska \"se\". Gyógynövényként is használhatjuk, kiváló immunerősítő egyben ajzószer \nidősebb férfiak számára. Feltétlenül fedő alatt kell a főzetnek pontosan 13 percig állni, különben nincs hatása. Erre utal a \"dő\" második szótag.",
+        "datum2": "2019-03-03T23:00:00.000Z",
+        "sorszam": 44
+    },
+    {
+        "halan": "algamuszi",
+        "bekuldo2": "petreskati",
+        "magyarazo2": "Cseszlovak",
+        "magy": "az algamuszi a matematika egy bizonyos, elfeledett ágát takarja. eszerint aki igazán nagy dolgokra akar rájönni a matematika területén, \nannak édesvízi tóba kell lemerülnie, s ott - egy szalmaszálon át lélegezve - kell gondolkodnia a nagy rejtélyeken. dr. Zaporozsec Kálmán találta fel \nezt a módszert, és a bokájára tekeredő vendégmarasztaló hínárról nevezte el később algamuszinak.",
+        "datum2": "2019-03-03T23:00:00.000Z",
+        "sorszam": 45
+    },
+    {
+        "halan": "amantéli",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Kandabula",
+        "magy": "sajtnak gondolnánk, de ez egy sajt. Apja Pálpusztai, anyja Kvargli. Gyerekük Mackó.",
+        "datum2": "2019-03-03T23:00:00.000Z",
+        "sorszam": 46
+    },
+    {
+        "halan": "rezsoltán",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Edeke",
+        "magy": "Tipikus dzsungelbeli állat, Északamerikától délre 24526 km-re Ópusztaszeren. Emlős állat, ezért tartásánál figyelembe kell venni a mellméretét, \nhiszen az állatvédők állatkínzásnak tekintik a nem megfelelő méretű melltartó használatát. Vemhessége, általában 6-8 hét, párzása kb fél óra, de \nezt sokszor szándékosan tévesen jelölik a tankönyvekben, nehogy az asszony, ha olvassa, példaként, és rosszindulatúan vágja azt esetleges \nveszekedés alkalmával \"kétperces\" férjuruknak.",
+        "datum2": "2019-03-03T23:00:00.000Z",
+        "sorszam": 47
+    },
+    {
+        "halan": "Januárállat.",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Kandabula",
+        "magy": "lásd: januárállat, mint januárállat.",
+        "datum2": "2019-03-04T23:00:00.000Z",
+        "sorszam": 48
+    },
+    {
+        "halan": "pecehók",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Edeke",
+        "magy": "\"pecehók, pecehók, pecergetel, persze hogy..\" mondja a híres pesti kuplé szövege, és szinte az ínyünk alatt érezhetjük a rest cipészinasok \nbagórágta képét, ahogy az utcasarkon krokodilbőr westerncsizmát alkusznak a helyi maláriakereskedővel. Haj, azok a negyvenes érvek, melyek \negészen az ezredforduló második szakaszáig tartottak, majdnem. Ennyit a pecehókról. Manapság, már nem használják, csak dísztrágyaként van \nolykor a kandalló előtt, vagy mögött, ill, ha elfogy a szén, akkor benne.",
+        "datum2": "2019-03-05T23:00:00.000Z",
+        "sorszam": 49
+    },
+    {
+        "halan": "Tesznyekanca",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-03-06T23:00:00.000Z",
+        "sorszam": 50
+    },
+    {
+        "halan": "csődörgeti",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "a szótárba sajnálatos hiba csúszott, kedves szerkesztő, kérem a t betűt c-re javítani, és egyáltalán.",
+        "datum2": "2019-03-06T23:00:00.000Z",
+        "sorszam": 51
+    },
+    {
+        "halan": "kondorlapos",
+        "bekuldo2": "Molnar-Jolan",
+        "magyarazo2": "Edeke",
+        "magy": "Kisközség Szeged mellett a Tisza árnyékában. Sötétben nem látszik. Lélekszáma 35.000 fő, ebből élő 2526. Főleg közmunkával foglalkoznak, \nez az importcikkjük is. Az ezredfordulón betörtek az autópiacra, de elkapták őket és tényleges letöltendőt kaptak. Díszpolgàri címet három ember \nkapott idáig de egyiknek se kellett....",
+        "datum2": "2019-03-10T23:00:00.000Z",
+        "sorszam": 52
+    },
+    {
+        "halan": "Hajlár",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "ez egy sporteseményeken mindennapos tevékenység, nyelvújítás korabeli szó, csak elírták, mert az r-t és l-t megcserélték benne. de mivel így \nragadt meg, már nem változtatnak rajta. egyébként azt jelöli, amikor hangosan drukkol valaki valamely sportolónak.",
+        "datum2": "2019-03-10T23:00:00.000Z",
+        "sorszam": 53
+    },
+    {
+        "halan": "igbő",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "petreskati",
+        "magy": "ősmagyar szó, már kiveszett a használatból. A nyelvészek közül a legjobb magyarázatot ifjabb Bőzekényi Botond adta. Igavonó állatokkal \nbővelkedő nemzetség, esetleg törzs. A Megyer törzs mindenképpen ilyen volt",
+        "datum2": "2019-03-12T23:00:00.000Z",
+        "sorszam": 54
+    },
+    {
+        "halan": "igbő",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "az 1984-ből kicenzúrázott rész. Igazságügyi és Bőségügyi osztály, Winston itt dolgozott egy darabig, az O1G szlogen alapötlete tőle származik, \nezt koppintották le manapság. Eredetileg NT1P volt (Nagy Tesó 1 pincebogár)",
+        "datum2": "2019-03-12T23:00:00.000Z",
+        "sorszam": 55
+    },
+    {
+        "halan": "Szeszifuszi",
+        "bekuldo2": "petreskati",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "síkosító márka, a Tilitolinál drágább de állítólag jobb minőségű.",
+        "datum2": "2019-03-12T23:00:00.000Z",
+        "sorszam": 56
+    },
+    {
+        "halan": "Gösztönye",
+        "bekuldo2": "Molnar-Jolan",
+        "magyarazo2": "Edeke",
+        "magy": "Sok régi dalunk szól a gösztönyéről, csak az idők folyamán nyelvtorzulás álltal történő elfeledés homálya lépett fel, aminek okán teljesen mást \nénekelünk, mint anno. Pld: Éliás, Tóbiás egy tál gösztonye.... Vagy a hírös sláger: Kicsi gösztönye, barna a szeme...Tehát, mint a példából láthatjuk, \na gösztönye, egyaránt jelenthet gesztenyét, és dödöllét is. Leghírhedtebb gasztronómiai ámokfutás az lenne, ha kitalálnánk a gesztenyés dödöllét, \naminek a gösztönye nevet adnánk. Itt a végre fuss el véle, az én mesén is tovább tartott volna, ha nem eddig tart.",
+        "datum2": "2019-03-12T23:00:00.000Z",
+        "sorszam": 57
+    },
+    {
+        "halan": "Retaráld",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "petreskati",
+        "magy": "Rég elfelejtett szó, mely különleges áldást jelent. Ha valakire éjféltájt áldást mondunk, az 3 éj 3 nap múlva háromszorosan visszaszáll reànk.",
+        "datum2": "2019-03-13T23:00:00.000Z",
+        "sorszam": 58
+    },
+    {
+        "halan": "hizganyolás",
+        "bekuldo2": "petreskati",
+        "magyarazo2": "Edeke",
+        "magy": "Műszó, arra az esetre találták ki, amikor valaki, egy fórumon ok nélkül használja a \"A témához nem szorosan kapcsolódó hozzászólás \n(halványan fog megjelenni)\" nevű opciót. Ha a titok kiderül, akkor hizganyolás helyett a hirdanoskál szót alkalmazzuk, ezért, feltéve, de nem \nmegengedve",
+        "datum2": "2019-03-15T23:00:00.000Z",
+        "sorszam": 59
+    },
+    {
+        "halan": "hirdanoskál",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "újabb fórumozási műszó, jelentése látszólag okkal használja a \"A témához nem szorosan kapcsolódó hozzászólás (halványan fog megjelenni)\" \nopciót a használója, de valójában nem. ez főleg olyan személyeknél szokott előfordulni, akik orrtökmételyben szenvednek már egy ideje, amit más \nnéven lolopopokonónak is szoktak hívni egyes vidékeken",
+        "datum2": "2019-03-15T23:00:00.000Z",
+        "sorszam": 60
+    },
+    {
+        "halan": "hirdanoskál",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "a kereskedelmi médiákok egyik kommunikációs fogása: hatfokos kútvízzel leöntött riporternőkkel olvastatják be a híreket, miközben a \nriportalanyoknak énekelniük kell a \"noskál-noskál, haj, de magos a te tejed` kezdetű népi műdalocsát.",
+        "datum2": "2019-03-16T23:00:00.000Z",
+        "sorszam": 61
+    },
+    {
+        "halan": "érkedes",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "cirkuszi bohócok sapkáján található jellegzetes csillámbojt, ha megnyomják dudál, ha megrázzák csilingel.",
+        "datum2": "2019-03-16T23:00:00.000Z",
+        "sorszam": 62
+    },
+    {
+        "halan": "kurgámszír",
+        "bekuldo2": "Molnar-Jolan",
+        "magyarazo2": "Edeke",
+        "magy": "Eleve elvetélt ötletek titkos tárolóegysége a CIA (szia) a KGB (kágóbé) és a TEK (tek) közösen bérelt Új-Indonéziai szigetvilág egyik meg nem nevezhető \naprócska vízzel körülvett szárazföldjén, ami Kínában található. Az átlag emberek gyakran kitalálnak dolgokat: pld mit lehetne tenni szemétlevivés ellen, \nvagy: hogyan kerülhetne a sör az ember kezébe, ha, már leült a fotelbe, de későn jutott eszébe az öngondoskodás, felállni, meg ugye...hehe..\nNaszóval, ezer, és ezer ötlet születik naponta, de igazi frappáns, emberiségelőrevivő, csak X-1+(3x5) a négyzeten. Ezek általában vagy Nobel díjat kapnak, \nvagy csak egyszerűen meggazdagszik belőle, aki ellopja. De mi lesz a többi, fals ötlettel? Tudjátok mit? Logikázzátok ki ezekből az infokbol. Na Én léptem.",
+        "datum2": "2019-03-19T23:00:00.000Z",
+        "sorszam": 63
+    },
+    {
+        "halan": "Bitangkangörcs",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "zuluföldi esőhívó botdob",
+        "datum2": "2019-03-24T23:00:00.000Z",
+        "sorszam": 64
+    },
+    {
+        "halan": "dárat",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "petreskati",
+        "magy": "dárda által okozott seb, a középkori orvosi nyelv szava volt.",
+        "datum2": "2019-03-25T23:00:00.000Z",
+        "sorszam": 65
+    },
+    {
+        "halan": "ciprecsentő",
+        "bekuldo2": "petreskati",
+        "magyarazo2": "Cseszlovak",
+        "magy": "fonetikusan átírt művészeti korszaknév, közvetlenül a kvetrecsentő után következett",
+        "datum2": "2019-03-25T23:00:00.000Z",
+        "sorszam": 66
+    },
+    {
+        "halan": "eterette",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "petreskati",
+        "magy": "kis gyermekek mondókáiban a folklórban előforduló hangulat szócska, jelentése homályos, gyakran a teremtette szóra rímel, talán ősi varázsszó \nlehet, a szövegkörnyezet alapján elkészítette jelentés rejlik benne.",
+        "datum2": "2019-03-25T23:00:00.000Z",
+        "sorszam": 67
+    },
+    {
+        "halan": "ügöralja",
+        "bekuldo2": "petreskati",
+        "magyarazo2": "Edeke",
+        "magy": "Fejjel lefelé fejlődött gödörlakólények, azaz az ügörök felső részét, azaz tetejét hívja így a köznyelv, ami alól található az állaton. Sokáig a népi \nmegfigyelés nem vette észre, hogy az ügör ez a dögevő galambhal fordítva fejlődött ki a tojásrántottából. Első írásbeli említése a ténynek, \nBessenyő Ü.T.István, azaz Bessenyő Ügörökrőlmindent Tudó István mondta, hogy Nem mindegy, hogy felőr le, vagy leről fel! Ugye? Nem? \nDe! má` megin igazam van!",
+        "datum2": "2019-03-26T23:00:00.000Z",
+        "sorszam": 68
+    },
+    {
+        "halan": "Baszki",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Szederfalu",
+        "magy": "Spanyolországból származó törvény tervezet, amit tévedésből hoztak át közép-kelet Európába. Bár azóta igen elterjedt a használata. Már fel sem \ntűnik, ha meghalljuk.",
+        "datum2": "2019-03-26T23:00:00.000Z",
+        "sorszam": 69
+    },
+    {
+        "halan": "nanora",
+        "bekuldo2": "Szederfalu",
+        "magyarazo2": "Edeke",
+        "magy": "Agora, a régi görög tehenészgyerek filének a kilyukasztására szervezett megleetésparty titkos kódja a nanora. Karóra, hányt varjú állát rakták a \nhétrét görnyedt feleselő bébidollba, és azt huzatják a cigánnyal a talicskán, aminek a nyik-nyikelése adja meg az alaphangot a pirospozsgás hajadon\n tiarájának a tararájához. Egészségetekre.",
+        "datum2": "2019-04-01T22:00:00.000Z",
+        "sorszam": 70
+    },
+    {
+        "halan": "Deszpazító",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "méltatlanul elhanyagolt hangnembe hangolt kéthúros, ősi sziléziai pengetős hangszer",
+        "datum2": "2019-04-02T22:00:00.000Z",
+        "sorszam": 71
+    },
+    {
+        "halan": "purganc",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-04-02T22:00:00.000Z",
+        "sorszam": 72
+    },
+    {
+        "halan": "Pernahajder kösziméte",
+        "magyarazo2": "Edeke",
+        "magy": "avagy Spermahajder Kösziméte, híres etiópiai nőcsábász volt a IIX század elején, vagy a végén. Egyes források szerint ezerhatszáz nője volt, és \nkét fiúja, meg egy tehene. A nők kiálltak a vallásukból, a fiuk elkanászosodtak, a tehénről semmi hír. Pernahajder Köszméte vérbajban halt meg \nágyban párnák közt. Halálát Petőfi is megörökítette a Ne ily halált adj....versében.",
+        "datum2": "2019-04-03T22:00:00.000Z",
+        "sorszam": 73
+    },
+    {
+        "halan": "Szelerem",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "kevelin",
+        "magy": "Szele_ pld János bácsi szele+èkezet nèlküli rèm.Gyakran hallható legfőképpen kiemelt borvidékeken",
+        "datum2": "2019-04-03T22:00:00.000Z",
+        "sorszam": 74
+    },
+    {
+        "halan": "Ravalpindipandapundi",
+        "bekuldo2": "kevelin",
+        "magyarazo2": "Cseszlovak",
+        "magy": "híres bombayi hindi volt",
+        "datum2": "2019-04-04T22:00:00.000Z",
+        "sorszam": 75
+    },
+    {
+        "halan": "gőzung",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "kevelin",
+        "magy": "Losung tovább fejlesztett változata.Jelen pillanatban vasalókènt funkciónál.Párás helyen nem ajánlatos használata.",
+        "datum2": "2019-04-04T22:00:00.000Z",
+        "sorszam": 76
+    },
+    {
+        "halan": "Bekaites",
+        "bekuldo2": "kevelin",
+        "magyarazo2": "Edeke",
+        "magy": "(ejtsd: Békítés) Úrhatnám pholgárok sznobista köreiben a kimondott szót olykor belepi a homály. Külön nyelvezet, külön szótár, külön faj. \nPéldamondat: Az Úriasszony bekaites czéljából a phennáját ajánlotta fel férjeurának szabatos használatra! Ez a mondat híres írócsaládokban szokott \nelhangzani. és kb annyit jelent, szabadfordításban: A csaj flrekefélt, ezt megtudta bárgyú ura, aki amúgy szűzfapoéta, és, hogy enyhítse a kárt \na nő, egy drága tollat adott neki ajándékba. (na, most gondolkodjon el a nyájas olvasó- meg a nem pásztorok is- hogy a \"phennáról\" miért nem \naz íróeszköz jutott az eszébe?? De ez másik történet...)",
+        "datum2": "2019-04-05T22:00:00.000Z",
+        "sorszam": 77
+    },
+    {
+        "halan": "Csődkirály",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "kevelin",
+        "magy": "Belzebúb gyermeke korán 12èvesen trónra jutott.Ám hiába a sok királyi elöny dràgakő stb folyton csak nyafogott.Igy nèpe elnevezte pulykacsőrnek.\nNeve szájhagyomány útján változott.Elöször csőrkirály majd kèsőbbiekben /csődkirály lett.Termèszetesen asszonya örömère aki ebben látta az èlet \nigazságának kinyilvànitatását",
+        "datum2": "2019-04-07T22:00:00.000Z",
+        "sorszam": 78
+    },
+    {
+        "halan": "Tajbojmasbojmusmotbok",
+        "bekuldo2": "kevelin",
+        "magyarazo2": "Edeke",
+        "magy": "Ez kérem túl hosszú, ezért egyetlen szótárban sem szerepel. Igaz napi használatban van, pld: Komámasszony! Adjon, már két tojást, mert \nTajbojmasbojmusmotbok, és az avar is kezd derengeni. Vagy: Vigyázz Rambó, a Tajbojmasbojmusmotbok beleillik a lélektükörbe! Ugye? És mégis, \nmivel ennyire bonyolult sehol sincs megmagyarázva. Használjuk, de forgalmunk sincs mért....",
+        "datum2": "2019-04-08T22:00:00.000Z",
+        "sorszam": 79
+    },
+    {
+        "halan": "Szájmonhagyomány",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "a méltán kultfilmmé vált Die Hard 3 nyomán minden hasonló nyelvtani szerkezetű szólásmondásnak ez lett az elterjedt elnevezése, ld. pl. az \nismert népdalt: \"Tyúkom mondja: kitrákotty\" --> ez a \"tyúkom mondja\" tipikus szájmonhagyomány",
+        "datum2": "2019-04-09T22:00:00.000Z",
+        "sorszam": 80
+    },
+    {
+        "halan": "sorkanéli",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "kevelin",
+        "magy": "Azaz Sárikanèni Ígazából Csonkabèlidárkanèni Sàrkanèli csonkabèli",
+        "datum2": "2019-04-11T22:00:00.000Z",
+        "sorszam": 81
+    },
+    {
+        "halan": "Pacifikánus Gergőhát",
+        "bekuldo2": "kevelin",
+        "magyarazo2": "Edeke",
+        "magy": "(lat. orv) Latin orvosi  Ez a fejlődési rendesség akkor alakul ki, amikor valakinek semmi baja sincsen. Főleg a hátával. Elmegy az ember az orvoshoz ugye, \nmert kellene pár nap horgászat, de szabadság az nincs, vagy, ha van a főnök nem engedi, ilyenkor a boríték hatására előkerül a Pacifikánus Gergőhát \nszindróma, ami egy, de akár két hét táppénzt is jelenthet.",
+        "datum2": "2019-04-12T22:00:00.000Z",
+        "sorszam": 82
+    },
+    {
+        "halan": "Nagyfas",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "kevelin",
+        "magy": "5000 lelket számoló falú dèlalföldön.Mivel itt mèg megengedett a házi sertès feldolgozása sok a nagy hasú. fèrfi akik mindig csak fogyó _ kurálnak \nezèrt szegèny asszonyok szenvednek",
+        "datum2": "2019-04-13T22:00:00.000Z",
+        "sorszam": 83
+    },
+    {
+        "halan": "Fűlni",
+        "bekuldo2": "kevelin",
+        "magyarazo2": "Edeke",
+        "magy": "Főnévi igennév. Alkalmazási területe, főleg a zombiintegráció területén, a specifikus intelligenciák által létrehozott mesterséges \nmegtermékenyítésnek az alaphangja. Illetve az örök kérdés, a mintaanyag produkálása előtt, vajh` Fűlni fog e rá az alany foga?? Ugye?",
+        "datum2": "2019-04-27T22:00:00.000Z",
+        "sorszam": 84
+    },
+    {
+        "halan": "Kajamajka",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Szederfalu",
+        "magy": "bizonyos ózdi repperek elmaradt vacsoráját hívják így. Ugyanis ők gyakran balhéznak, olyankor aztán anyu nem ad nekik enni, sőt a \nsodrófán is lekapcsolja a világítást.",
+        "datum2": "2019-04-27T22:00:00.000Z",
+        "sorszam": 85
+    },
+    {
+        "halan": "cicanizáció",
+        "bekuldo2": "Szederfalu",
+        "magyarazo2": "Edeke",
+        "magy": "Kutyás hölgyek rejtett álmaiban, előforduló momentum, akik titokban macskára vágynak. Sajnos, ez a rejtett frusztráció kivetítése, olykor \ntelhetetlen némi vágyakban manifesztálódik...ööö...\Sajnos??? ..mi az hogy! Dehogy sajnos! Sőt!!!",
+        "datum2": "2019-05-21T22:00:00.000Z",
+        "sorszam": 86
+    },
+    {
+        "halan": "Lankadatlan-sziget",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-05-21T22:00:00.000Z",
+        "sorszam": 87
+    },
+    {
+        "halan": "banyekológia",
+        "magyarazo2": "Cseszlovak",
+        "magy": "újkeletű tudományág, művelői azt kutatják, milyen elbaltázott helyzetekben érzi meg igazán a benne lévő, hogy az egy elbaltázott helyzet",
+        "datum2": "2019-05-21T22:00:00.000Z",
+        "sorszam": 88
+    },
+    {
+        "halan": "lipepopa",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-05-21T22:00:00.000Z",
+        "sorszam": 89
+    },
+    {
+        "halan": "Szónickus",
+        "magyarazo2": "Edeke",
+        "magy": "A szónickus, vagy ismertebb formájában: superszónickus jelzőt általában arra használjuk akire, vagy amire akarjuk. Lehet szentimentálisan \ntovabillegő, felhőtlanített vattacukor, de ugyanakkor az sem kizárt, hogy alabástromhajnalú reggelek előzményeként fogant magzatok \ngondolatkezdeményezésére utaló magasztos spirálium. De ez, még nincs bizonyítva.",
+        "datum2": "2019-05-23T22:00:00.000Z",
+        "sorszam": 90
+    },
+    {
+        "halan": "Barompara",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-05-23T22:00:00.000Z",
+        "sorszam": 91
+    },
+    {
+        "halan": "parizerge",
+        "magyarazo2": "Cseszlovak",
+        "magy": "régebbi nevén iparizerge, olyan kőszáli patás állat, amely legkomfortosabban ipari telephelyeken érzi jól magát - az ötvenes években a nehézipart preferálta; \nmeglepő módon, hiszen ott nincsenek sziklák",
+        "datum2": "2019-05-23T22:00:00.000Z",
+        "sorszam": 92
+    },
+    {
+        "halan": "göndörfal",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-05-23T22:00:00.000Z",
+        "sorszam": 93
+    },
+    {
+        "halan": "kockamony",
+        "magyarazo2": "Szederfalu",
+        "magy": "a hét szünyű kapanyányi monyók XXI. századi leszármazottai. Internet függők ofkorsz.",
+        "datum2": "2019-05-23T22:00:00.000Z",
+        "sorszam": 94
+    },
+    {
+        "halan": "termész",
+        "bekuldo2": "Szederfalu",
+        "magyarazo2": "Edeke",
+        "magy": "Két alfaja létezik a természnek. A természetes, ami úgy keletkezik, hogy a termapa odabújik este termanyához és.....+18....A másik a \ntermészetellenes, amikor laboratóriumi körülmények között állítják elő. Ilyenkor a professzor bújik oda az aszinsztenséhez, és...+18. Mindenesetre \nleszögezhetjük, hogy a természnek nagyon sok köze van a +18-hoz.",
+        "datum2": "2019-05-24T22:00:00.000Z",
+        "sorszam": 95
+    },
+    {
+        "halan": "Ökörnyár",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Szederfalu",
+        "magy": "az ötödik évszak. Klímaváltozás ide, vagy oda, meleg van és kiisszuk még a folyót is, mint az ökör. Egymagunk.",
+        "datum2": "2019-05-24T22:00:00.000Z",
+        "sorszam": 96
+    },
+    {
+        "halan": "egymag",
+        "bekuldo2": "Szederfalu",
+        "datum2": "2019-05-24T22:00:00.000Z",
+        "sorszam": 97
+    },
+    {
+        "halan": "Jèghangya",
+        "magyarazo2": "kevelin",
+        "magy": "Tűzhangya jègkorszakbeli vàltozata. Óceánok mèlyèn ötös csoportban található.Nagyèrtèkű. Orvosságkènt hülyesèg ellen használják.Sajnos a mi \nhazánkban nem tudják megfizetni",
+        "datum2": "2019-05-24T22:00:00.000Z",
+        "sorszam": 98
+    },
+    {
+        "halan": "Üvegvázavázlattartótáska",
+        "bekuldo2": "kevelin",
+        "magyarazo2": "Edeke",
+        "magy": "ez az ami. Egy krokogyíkszőrtáska, mely kizárólag olyan papirlapok tárolására használnak , melyen üvegből készült növénytartö edény később \ntervezett festményéhez készült előtanulmányt rögzítettek. Egyesek.",
+        "datum2": "2019-05-24T22:00:00.000Z",
+        "sorszam": 99
+    },
+    {
+        "halan": "Vasból fakarika",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "M.Laurens",
+        "magy": "Vasmegyéből származó közismert celeb bemutatása az X faktorban: \" És akkor most következzék a következő versenyző Vasból! Faka Rika!!!\"",
+        "datum2": "2019-05-24T22:00:00.000Z",
+        "sorszam": 100
+    },
+    {
+        "halan": "Kutykurutty",
+        "bekuldo2": "M.Laurens",
+        "magyarazo2": "Szklenargyula",
+        "magy": "a parlamenti hivatalos nyelv. Igen csak meglep, hogy ezt a szót meg kell magyarázni.... Ez a hivatalos nyelv a képviselőknél, mikor megválasztják \nőket, ez az első amit megtanulnak.... És ahányszor megszólalnak a parlamentben, ezt hallani a szájukból; KUTYKURUTTY.",
+        "datum2": "2019-05-24T22:00:00.000Z",
+        "sorszam": 101
+    },
+    {
+        "halan": "Zsírkirály",
+        "bekuldo2": "Szklenargyula",
+        "magyarazo2": "janow",
+        "magy": "Zsírabb a zsírnál. Ő a Zsírkirály. Zsírok királya, királyom zsírja.",
+        "datum2": "2019-05-24T22:00:00.000Z",
+        "sorszam": 102
+    },
+    {
+        "halan": "Bakfitty",
+        "bekuldo2": "janow",
+        "datum2": "2019-05-25T22:00:00.000Z",
+        "sorszam": 103
+    },
+    {
+        "halan": "tettözön",
+        "magyarazo2": "Edeke",
+        "magy": "utolsó utáni pillanatban megkísérelt teljesítés. Mindegy, hogy vizsgára felkészülés, projekt teljesítése, vagy ecetet rá, a lényeg, hogy az embert \ndoppingadaggal ontja el a lehetetlen határidő teljesítésének megpróbálása. Latinul ezt úgy mondják: \"Nem fog sikerülni\" (igen, igen, legújabb \nkutatások szerint a latinok tudtak magyarul)",
+        "datum2": "2019-05-25T22:00:00.000Z",
+        "sorszam": 104
+    },
+    {
+        "halan": "vakarimaszká",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "a sógunok utolsó csatakiáltása, amikor urukért az utolsó, minden valószínűség szerint eleve vesztésre ítélt csatájukba indulnak. általában nem segít. \ncsak jó kimondani.",
+        "datum2": "2019-05-25T22:00:00.000Z",
+        "sorszam": 105
+    },
+    {
+        "halan": "sanyetovista",
+        "magyarazo2": "Cseszlovak",
+        "magy": "Petőfi második, Szibériában kötött házasságából született fia, Alexszej Sanyetov preavantgard költő követője és utánzója",
+        "datum2": "2019-05-25T22:00:00.000Z",
+        "sorszam": 106
+    },
+    {
+        "halan": "ébreny",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-05-25T22:00:00.000Z",
+        "sorszam": 107
+    },
+    {
+        "halan": "veszvész",
+        "magyarazo2": "Cseszlovak",
+        "magy": "első sorban a black fridayeken kialakuló jelenség. szerintem nem kell magyarázni - egyszerűen amikor már annyian vannak egy termék \nmegvásárlására, hogy már szinte a boltban sem férnek el. rendszerint tömegverekedéssel, az meg csoportos garázdasággal szokott végződni",
+        "datum2": "2019-05-25T22:00:00.000Z",
+        "sorszam": 108
+    },
+    {
+        "halan": "meonda",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "NikiLetti",
+        "magy": "ez egy használati eszköz, amely hasonlít a juharlevél alakjára, általában üvegből készítették. Még az indiánok készítették el először abból a célból, \nhogy kilyukasszák a ruhájukat, és gombnak megfelelő gumót tegyenek a helyére.",
+        "datum2": "2019-05-25T22:00:00.000Z",
+        "sorszam": 109
+    },
+    {
+        "halan": "hárvol",
+        "bekuldo2": "NikiLetti",
+        "magyarazo2": "Edeke",
+        "magy": "kaszaegyenesítéskor alkalmazott munkafolyamat. Tulajdonképpen ez a lényege a dolognak. Fogjuk a görbe kaszát, előbb becsemenyéljük a \npokászkával, majd a nyelét etezerázzuk filemonnal. Ekkor hárvoljuk, két- három órán keresztül. Utána, már csak várni kell. Ahogy szárad úgy \negyenesedik.",
+        "datum2": "2019-05-26T22:00:00.000Z",
+        "sorszam": 110
+    },
+    {
+        "halan": "Parafenemén",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-05-26T22:00:00.000Z",
+        "sorszam": 111
+    },
+    {
+        "halan": "Kétlövetű Reflexcsí",
+        "magyarazo2": "Edeke",
+        "magy": "a valhalla élt 13. legnagyobb cowboy volt. Egyméter- kilencvehat centi. Sajnos egy párbaj alkalmával szenderült jobblétre, pedig csak nézőként \nvolt jelen. Életéről Jiří Menzel készített filmet, amit később megbánt. Ma inkább a róla elnevezett fa szárú nyalóka miatt csenghet ismerősen \na neje: Kétlövetű Reflexcsíné született Aranka Piri",
+        "datum2": "2019-05-27T22:00:00.000Z",
+        "sorszam": 112
+    },
+    {
+        "halan": "Faka",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-05-27T22:00:00.000Z",
+        "sorszam": 113
+    },
+    {
+        "halan": "sömedli",
+        "magyarazo2": "Edeke",
+        "magy": "Magyarázat helyett, egyen itt egy idézet Markin Lúter Királytól, talán ebből egyszerűbben megértitek: \"Van egy sömedli, hogy egy nap Alabama állam, \ngonosz rasszistáival, kormányzójával, akinek szájából olyan szavak csepegnek, mint a sömedli rendelkezések állami] felülbírálat[a] és a [szövetségi törvények] \nérvénytelenítés[e], hogy egy nap éppen ott, Alabamában fekete sömedli és fekete sömedli képesek lesznek a testvéri kézfogásra fehér kisfiúkkal és fehér \nkislányokkal. Ez ma az sömedli! Van egy sömedli, hogy egy napon minden völgy felemelkedik, minden domb és hegy lesüllyed, az egyenetlen helyek \nkisimulnak, és a kanyargós helyek kiegyenesednek, és az Úr dicsősége megmutatkozik, és minden ember együtt fogja látni. […] Ez a mi reményünk. \nEz az a hit, amellyel visszatérek Délre. Ezzel a hittel képesek leszünk arra, hogy a kétségbeesés hegyébôl kivéssük a remény szikláját. Ezzel a hittel \nképesek leszünk arra, hogy átalakítsuk nemzetünk perlekedô viszályát a testvériség gyönyörû szimfóniájává. Ezzel a hittel képesek leszünk arra, hogy \negyütt dolgozzunk, együtt imádkozzunk, együtt küzdjünk, hogy együtt menjünk börtönbe, hogy együtt keljünk fel a szabadságért, tudva, hogy egy nap \nszabadok leszünk.” \"",
+        "datum2": "2019-05-28T22:00:00.000Z",
+        "sorszam": 114
+    },
+    {
+        "halan": "Háromarcú lány",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-05-28T22:00:00.000Z",
+        "sorszam": 115
+    },
+    {
+        "halan": "gendermag",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "Semleges tyúkok napi betevője.",
+        "datum2": "2019-05-28T22:00:00.000Z",
+        "sorszam": 116
+    },
+    {
+        "halan": "tőrnagy",
+        "bekuldo2": "Molnar-Jolan",
+        "datum2": "2019-05-28T22:00:00.000Z",
+        "sorszam": 117
+    },
+    {
+        "halan": "Böhömröngő",
+        "magyarazo2": "Edeke",
+        "magy": "Hombár alakúra facsart citromhéjja. Az állatvédők olykor tiltakoznak eme szájhagyomány feleveleneleítése ellen, de, már az is hagyomány egyes falukban, hogy azokat a \nhelyi legények, meg elverik. Népi megfigyelés, hogy a tavasz első napján kikelt citromhéjja megváltoztatja a medve árnyékát. És a pikkelysömört is hámosítja.",
+        "datum2": "2019-05-29T22:00:00.000Z",
+        "sorszam": 118
+    },
+    {
+        "halan": "Hattörténeti Múzeum",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-05-29T22:00:00.000Z",
+        "sorszam": 119
+    },
+    {
+        "halan": "vízpor",
+        "magyarazo2": "Cseszlovak",
+        "magy": "praktikus megoldás elsősorban sivatagi túrákra. könnyű tárolni és még könnyebb elfogyasztani. csak egy kis vizet adsz hozzá, s máris feloldódik benne \nés fogyasztható. hasonlóan működik a törülközőpor is: vízbe mártod, s ettől törülköző lesz belőle.",
+        "datum2": "2019-05-30T22:00:00.000Z",
+        "sorszam": 120
+    },
+    {
+        "halan": "porgyújtó",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Edeke",
+        "magy": "porszívózsák telítettség orvosló eszköz, a porgyujtó. Főleg akkor keletkezik ez a magasztos megoldás, ha a fiatalasszony, otthon takarítás közben- nagyon \nlényeges, hogy meztelenül- a kandallót tisztítja porszívóval, és egy kósza- bóka pici szikra életre kel a fujtatóban. ( esetleg harisnya meg harisnyakötő lehet rajta)",
+        "datum2": "2019-05-30T22:00:00.000Z",
+        "sorszam": 121
+    },
+    {
+        "halan": "Tértivevény",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-05-30T22:00:00.000Z",
+        "sorszam": 122
+    },
+    {
+        "halan": "hajcipő",
+        "magyarazo2": "Cseszlovak",
+        "magy": "az EU új szabályozása szerint a kiutalt segélyhajat kizárólag ilyen, eredetileg cipő alakú dobozokban szállíthatják ki a rászorulóknak.",
+        "datum2": "2019-05-30T22:00:00.000Z",
+        "sorszam": 123
+    },
+    {
+        "halan": "aszfütyürű",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-05-31T22:00:00.000Z",
+        "sorszam": 124
+    },
+    {
+        "halan": "kasztológus",
+        "magyarazo2": "feheryndigo",
+        "magy": "a gyors ütemben változó világ által létrehozott meghatározása a \" népvándorlással\" foglalkozó tudósnak, aki a kicsit súlyosabb és talán több \nkövetkezménnyel járó átalakulásokat vizsgálja és próbál megoldást találni a felvetődő problémákra, ami az emberiséget felkészületlenül érte",
+        "datum2": "2019-05-31T22:00:00.000Z",
+        "sorszam": 125
+    },
+    {
+        "halan": "depresszionárius",
+        "bekuldo2": "feheryndigo",
+        "magyarazo2": "Edeke",
+        "magy": "a sárkányfűárusok egyik specializált változata. Álltalában, a drogkereskedők antideprenszánsokat árulnak, mint a marihónalja, a kokajin, vagy a \npolitikai kampánybeszéd. Nos piackutatások kimutatták, hogy túlboldog nemzetünkben szükségessé vállt a mesterségesen előállított depresszió, mivel \naz abból megélő pszichiáterek, és pszichológusok, és, Zacher Gáborok éhen akarnak halni, így, hogy legyen munkájuk, kitalálták alternatívaként a \ndepresszionárius mesterséget. Hírös szállóigéjük: Sárkány ellen sárkány fű, antidepresszió ellen, meg adok mást.....",
+        "datum2": "2019-06-01T22:00:00.000Z",
+        "sorszam": 126
+    },
+    {
+        "halan": "iksz-degeneráció",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "a mániákus totózás elfajulása. Klinikai eset.",
+        "datum2": "2019-06-01T22:00:00.000Z",
+        "sorszam": 127
+    },
+    {
+        "halan": "makkculi",
+        "bekuldo2": "Molnar-Jolan",
+        "datum2": "2019-06-01T22:00:00.000Z",
+        "sorszam": 128
+    },
+    {
+        "halan": "cumicecident",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "kataklizma, mely során a cumi nagy ívben kiröpül a baba szájából. Ilyenkor kitör a cumicecident, kb. 80 uszkve 100 decibeles üvöltés formájában, \nmíg a mama saját nyálával tisztogatva le az utcai koszt, vissza nem helyezi a gyerek szájába az immár fertőtlenített tárgyat.",
+        "datum2": "2019-06-02T22:00:00.000Z",
+        "sorszam": 129
+    },
+    {
+        "halan": "rézműzli",
+        "bekuldo2": "Molnar-Jolan",
+        "datum2": "2019-06-02T22:00:00.000Z",
+        "sorszam": 130
+    },
+    {
+        "halan": "Lepkefotel",
+        "magyarazo2": "Edeke",
+        "magy": "nevével ellentétben nem lepkéből készült fotel, sőt!! nem is lepkéknek szánt ülőalkalmatosság. A lepkefotel nem más, mint a definiálhatatlan, \nsejtelmesség definíciója. Amikor hazaérsz éjjel fél egykor, csatak részegen, és a nejed vádló szavaiból azt veszed ki, hogy mit keres, egy csipkebugyi \na mellényzsebedben...na erre szokták azt mondani, hogy : Lepkefotel. Ha ezt nem hiszi el az asszony, akkor nem is szeret.",
+        "datum2": "2019-06-02T22:00:00.000Z",
+        "sorszam": 131
+    },
+    {
+        "halan": "Rétegzésvég",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-02T22:00:00.000Z",
+        "sorszam": 132
+    },
+    {
+        "halan": "kapostoll",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "egyházi méltóság volt a késő középkorban. A kapostollok hátára Pünkösd alkalmával postagalambok elhullajtott evezőtollait csirizelték, ezzel a \ndísszel miséztek. Mint ismert, innen kapta a nevét a Kapostolli Anyaszentegyház.",
+        "datum2": "2019-06-03T22:00:00.000Z",
+        "sorszam": 133
+    },
+    {
+        "halan": "beneszári",
+        "bekuldo2": "Molnar-Jolan",
+        "datum2": "2019-06-03T22:00:00.000Z",
+        "sorszam": 134
+    },
+    {
+        "halan": "titokrata",
+        "magyarazo2": "Edeke",
+        "magy": "értelmezéséhez szét kell szabdaljuk ezt a szót. Tehát a szótő, a \"tit\", mint tudjuk ez az örök nő, a Vénus, a Cicciolína, a Koncsita Wurst. Ehhez jön \naz \"ok\" ami utal az ok-okozat, azaz fok-fokozati összefüggésteleníthetetlenségességeitékekre. És az igazi hepiend a \"rata\" Ismerjük a viccet: Tata! \nratatata!...ami ugye a halálból csinál viccet. Tehát a szó. a titokrata nem más, mint Nőokozhalált. Azaz, kémnyelven: Mata Hari. De van férfi verzióban is:\n Mata Harrison Ford. Az igazi a Matteltől.",
+        "datum2": "2019-06-04T22:00:00.000Z",
+        "sorszam": 135
+    },
+    {
+        "halan": "Véndögség",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-04T22:00:00.000Z",
+        "sorszam": 136
+    },
+    {
+        "halan": "hárpica",
+        "magyarazo2": "Edeke",
+        "magy": "(mindnekelőtt hagy gratuláljak a szó megadójának a bátorságáért, Én jómagam azt gondolom, hogy sok-sok ilyen magabiztos merész nőre van szükség, \nmég akkor is, ha az \"s\" betűt véletlen kifelejtette) Tehát a hárpica, vagy a déli országrészen \"s\"-sel mondják: shárpica (mért, mire gondoltatok??) nem \nmás, mint a malomkőörlemény kikandikáló része. Ezt szüzlányok a jelzőjük elvesztése alatt az ágyuk alá rejtik, így a szájhagyomány szerint: Ha alattad \na hárpica, nem lesz terhes Klárika. Nos, közhiedelem ide-közhiedelem oda, nem halt ki a nemzetünk, hárpica ellenére nemzettünk. Ja, és külön tetszés \nnyivánítás 36nak.",
+        "datum2": "2019-06-05T22:00:00.000Z",
+        "sorszam": 137
+    },
+    {
+        "halan": "Hallásszabadság",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-05T22:00:00.000Z",
+        "sorszam": 138
+    },
+    {
+        "halan": "szállongora",
+        "magyarazo2": "Cseszlovak",
+        "magy": "manapság I. és II. osztályú hotelekben, de eredetileg kisebb motelekben, szállókon kialakult esti társasági esemény, zenés buli legfőbb zeneeszköze. \nvan köze a zongorához, de nem túl sok.",
+        "datum2": "2019-06-06T22:00:00.000Z",
+        "sorszam": 139
+    },
+    {
+        "halan": "kűrmérték",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-06-06T22:00:00.000Z",
+        "sorszam": 140
+    },
+    {
+        "halan": "fitosterápia",
+        "magyarazo2": "Edeke",
+        "magy": "Dux Ferdinánd (1758-1802) híres németalföldi szanitéc nagy híve volt a fitoterápíának. Mikor hívei megkérdezték mi kell hozzá, a válasza egyszerűen \naz volt, jogy picák, meg a fasom. Ezt értette félre az inkvizíció, és szörnyű kínhalállal büntették, amit később túlélt. A szekszuálpszichológia atyját \ntisztelhetjük benne, hiszen a fia szekszuálpszichopata volt. Ő maga sosem vonzódott a témához. A fitosterápiát a mai napig alkalmazzák hátha \negyszer beválik alapon...",
+        "datum2": "2019-06-07T22:00:00.000Z",
+        "sorszam": 141
+    },
+    {
+        "halan": "Mágnes asszony",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-07T22:00:00.000Z",
+        "sorszam": 142
+    },
+    {
+        "halan": "intimtorma",
+        "magyarazo2": "Cseszlovak",
+        "magy": "egy tévhiedelem miatt alakult ki a használata, mely szerint pusztán önmagában is csíp, le sem kell reszelni hozzá. bizonyos kispénzű hölgyek \nelőszeretettel váltottak ezért az intimrépáról az intimtormára.",
+        "datum2": "2019-06-07T22:00:00.000Z",
+        "sorszam": 143
+    },
+    {
+        "halan": "fovács",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "feheryndigo",
+        "magy": "olyan fával dolgozó mester, aki a hagyományőrzés jegyében visszatér eleink munkaeszközeihez és újra faekét, faásót, fakalapácsot, stb...gyárt. \nTermészetesen szem előtt tartva a környezetvédelmi szempontokat és az egészséges életmódot is!",
+        "datum2": "2019-06-07T22:00:00.000Z",
+        "sorszam": 144
+    },
+    {
+        "halan": "onlime",
+        "bekuldo2": "feheryndigo",
+        "datum2": "2019-06-07T22:00:00.000Z",
+        "sorszam": 145
+    },
+    {
+        "halan": "táskasírógép",
+        "magyarazo2": "Edeke",
+        "magy": "nagyon elmés szerkezet, és óriási segítség, ha az ember bajba hozza magát. Van ugye az egyszeri zseni, aki hétvégén rendszerint elveszíti az eszméletét,\n némi alkohol hatására. Ilyenkor megfogalmazódott írásait, rendszerint később kénytelen sűrű bocsánatkérések közepette visszavonni. Nos a táskasírógép,\n ilyen esetekben felsír, hangosan, ezzel is jelezve a paciensnek, hogy ne legyen teljesen hüle..",
+        "datum2": "2019-06-09T22:00:00.000Z",
+        "sorszam": 146
+    },
+    {
+        "halan": "Megaculpa",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-09T22:00:00.000Z",
+        "sorszam": 147
+    },
+    {
+        "halan": "sápítókötél",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "a navajo indiánok tradicionális kivégzőeszköze, erre akasztották föl a kovbojokat száradni, hogy aztán harmadfél holdtöltekor füstre akasztva mondják \nki rájuk a sápot, ami a legnagyobb átok volt.",
+        "datum2": "2019-06-11T22:00:00.000Z",
+        "sorszam": 148
+    },
+    {
+        "halan": "tőrmellék",
+        "bekuldo2": "Molnar-Jolan",
+        "magyarazo2": "feheryndigo",
+        "magy": "a középkorban a megkülönböztetés súlyos formája, mely úgy került érvényesítésre, hogy azok a kovácsok, akik nem tartoztak az elit rétegbe, nem \ncsinálhattak kardot és komolyabb fegyvereket, csak tőrt és kisebb késeket, ezért nem kaptak helyet a kovácsok utcájában, csak egy belőle nyíló, sötét \nzug utcában",
+        "datum2": "2019-06-11T22:00:00.000Z",
+        "sorszam": 149
+    },
+    {
+        "halan": "kocsmártír",
+        "bekuldo2": "feheryndigo",
+        "magyarazo2": "Cseszlovak",
+        "magy": "a munka hőse, aki alapvetően egy talponállóban húzza az igát meg a sörcsapokat 30-40-50 éve.",
+        "datum2": "2019-06-11T22:00:00.000Z",
+        "sorszam": 150
+    },
+    {
+        "halan": "wagnerérzékeny",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-06-11T22:00:00.000Z",
+        "sorszam": 151
+    },
+    {
+        "halan": "trombitasó",
+        "magyarazo2": "Edeke",
+        "magy": "a kulináris akkusztika statisztikailag releváns attitűdje. Az ókori Rómában kolosszális sikert arattak vele a mérhetetlen faló orgiákon. Később a faló \nelőfordult Trójánál is, de ez nem ide tartozik. A trombitasót gyakran szippantják fel orron keresztül, de úgy semmi értelme sincsen. Gombás ételeknél, \ncsak mérsékelten alkalmazzuk, s kiegészítő fűszernek a canestent ajánljuk.",
+        "datum2": "2019-06-11T22:00:00.000Z",
+        "sorszam": 152
+    },
+    {
+        "halan": "Vakliba",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Kandabula",
+        "magy": "női úrvezetők beceneve a forgalomban. Pedagógiai tartalmat hordoz.",
+        "datum2": "2019-06-11T22:00:00.000Z",
+        "sorszam": 153
+    },
+    {
+        "halan": "légmerő",
+        "bekuldo2": "Kandabula",
+        "datum2": "2019-06-11T22:00:00.000Z",
+        "sorszam": 154
+    },
+    {
+        "halan": "Ipari szívszorító",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "Új fejlesztésű eszköz, mely szívidomvasak rögzítésére szolgál, afféle mentális sikattyú. Alakra olyan mint egy tűzőgép és menetvágó keresztezése. Ha \nvégzett a munkafolyamattal, élesen sípol. Ujjpercszorítónak is használják, de csak ha balmenetes.",
+        "datum2": "2019-06-14T22:00:00.000Z",
+        "sorszam": 155
+    },
+    {
+        "halan": "teklabord",
+        "bekuldo2": "Molnar-Jolan",
+        "datum2": "2019-06-14T22:00:00.000Z",
+        "sorszam": 156
+    },
+    {
+        "halan": "simogatóriánus",
+        "magyarazo2": "Edeke",
+        "magy": "kapuzárási pánikban lévő középkorú úr, tini lányra váltás utáni intim együttléte. Erre van kitalálva a \" Sokat akar a középkorú, de nem bírja a farka\" \nközmondás. Szerencséje van, ha a hölgy, még tapasztalatlan, vagy naív, és elhiszi a szöveget, hogy \" ...azért puha hogy ne fájjon...\"",
+        "datum2": "2019-06-14T22:00:00.000Z",
+        "sorszam": 157
+    },
+    {
+        "halan": "Tapasznyalatlan",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Kandabula",
+        "magy": "a tapasznyalás versenyek szabályzata előírja, hogy a versenyzők nyalatlan tapasszal kezdjék a küzdelmet. A nyalatlan tapaszokat a rendezőnek kell \nbiztosítani. \"Tapasznyalatlannak\" csúfolják a már nyalt, vagy éppen kinyalt tapaszokhoz történő indokolatlan ragaszkodást. Egyébként a nyalatlan tapasz \nelég ritka.",
+        "datum2": "2019-06-14T22:00:00.000Z",
+        "sorszam": 158
+    },
+    {
+        "halan": "purgamurga",
+        "bekuldo2": "Kandabula",
+        "datum2": "2019-06-14T22:00:00.000Z",
+        "sorszam": 159
+    },
+    {
+        "halan": "bárorgonista",
+        "magyarazo2": "M.Laurens",
+        "magy": "Lekicsinylő jelző a burkoló kőművesek körében, arra a személyre aki még fugázni sem tud tisztességesen. Pl. Bárorgonista volt, de hülye még a \nfugázáshoz is!",
+        "datum2": "2019-06-14T22:00:00.000Z",
+        "sorszam": 160
+    },
+    {
+        "halan": "tenölődik",
+        "bekuldo2": "M.Laurens",
+        "datum2": "2019-06-15T22:00:00.000Z",
+        "sorszam": 161
+    },
+    {
+        "halan": "Szitárszőr",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "kelet-indiai tartomány Báláshundori közelében. A nagy Vandzsábi idején innen vándoroltak el a szitárok társzekerekkel. Mivel orrtövükről hiányzott a \nnemesi származást jelölő szőrszál, ezért elkergették őket a grundról.",
+        "datum2": "2019-06-15T22:00:00.000Z",
+        "sorszam": 162
+    },
+    {
+        "halan": "tundrabunda",
+        "bekuldo2": "Molnar-Jolan",
+        "datum2": "2019-06-15T22:00:00.000Z",
+        "sorszam": 163
+    },
+    {
+        "halan": "Fagyságos uram",
+        "magyarazo2": "Kandabula",
+        "magy": "a Hyppolit a lakájt ezen a címen fogalmazták az eszkimóknál.",
+        "datum2": "2019-06-15T22:00:00.000Z",
+        "sorszam": 164
+    },
+    {
+        "halan": "Fagyságos uram",
+        "magyarazo2": "Edeke",
+        "magy": "Indokolatlanul mellőzött személy. Látens megsértődöttségből tüntetően figyelmekívülhagyással büntetett, kicsinyes bosszú szenvedő alanya. \nMegfagyasztja a levegőt maga körül, ha megjelenik valahol. Tulajdonképpen mindenki tudja mi a baj vele, csak Ő olyan amatőr, hogy erre nem jön rá \nmagától. Hát kicsit szr neki. Szegényke...",
+        "datum2": "2019-06-15T22:00:00.000Z",
+        "sorszam": 165
+    },
+    {
+        "halan": "górzutty",
+        "bekuldo2": "Kandabula",
+        "datum2": "2019-06-15T22:00:00.000Z",
+        "sorszam": 166
+    },
+    {
+        "halan": "Undiragandi",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-15T22:00:00.000Z",
+        "sorszam": 167
+    },
+    {
+        "halan": "harminchat",
+        "magyarazo2": "Kandabula",
+        "magy": "tévedsz, az undiragandi nem egy személy, hanem egy hegycsúcs. Pontosabban így hívják a norvég tengerészek a rumos lecsót hegymászáskor. \nGórzutty szintén szakszó, akkor van, amikor leesnek.",
+        "datum2": "2019-06-15T22:00:00.000Z",
+        "sorszam": 168
+    },
+    {
+        "halan": "keinproblem",
+        "bekuldo2": "Kandabula",
+        "datum2": "2019-06-15T22:00:00.000Z",
+        "sorszam": 169
+    },
+    {
+        "halan": "tegecsel, tegecselés",
+        "magyarazo2": "Kandabula",
+        "magy": "ez egy tánclépés, mégpedig a kazánkovácstáncok alaplépése. A mozdulattal eljátsszuk, hogy egy nehéz és izzó fémdarab (szegecs) esik a lábunkra, \nezért vad szökdelésbe kezdünk. Főként férfiak járják, a nők inkább ápolnak.",
+        "datum2": "2019-06-16T22:00:00.000Z",
+        "sorszam": 170
+    },
+    {
+        "halan": "szepperte",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Cseszlovak",
+        "magy": "valami fontos dolgot mondvacsinált okokból nem tesz meg az illető. pl. Pisti szepperte a fogorvosi időpontját, mert hirtelen fontos tegecselnivalója akadt.",
+        "datum2": "2019-06-16T22:00:00.000Z",
+        "sorszam": 171
+    },
+    {
+        "halan": "lippa",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-06-16T22:00:00.000Z",
+        "sorszam": 172
+    },
+    {
+        "halan": "éti kakas",
+        "magyarazo2": "M.Laurens",
+        "magy": "Az éti csiga és a Pádovai tyúk, hím ivarú szerelem gyermeke. Jól felismerhető a szárnyak felett viselt cserepes házáról.",
+        "datum2": "2019-06-16T22:00:00.000Z",
+        "sorszam": 173
+    },
+    {
+        "halan": "pumpurumpu",
+        "bekuldo2": "M.Laurens",
+        "magyarazo2": "Kandabula",
+        "magy": "a hajkófok nemzeti eledele. Alapja az erjesztett cincérlé, melyet kevés hólével és sok galvániszappal bolondítanak meg. Hajcsavaróba csavarva utcán \nát is árulják. \"Pu\" nélkül csecsemőknek is adható.",
+        "datum2": "2019-06-16T22:00:00.000Z",
+        "sorszam": 174
+    },
+    {
+        "halan": "fagoncs",
+        "bekuldo2": "Kandabula",
+        "datum2": "2019-06-16T22:00:00.000Z",
+        "sorszam": 175
+    },
+    {
+        "halan": "tündérgő",
+        "magyarazo2": "Edeke",
+        "magy": "Egysző, öregapám, Kukutyimba szeggődött dógoznyi! Hajj, azok vótak a szép ídők: a lyányok, mint valami csengősbögyörők úgy jártak-keltek, \na legények, meg nyalkák vótak, assekszuálisok! Jajj, szóval öregdédém, mert akkor, már megszületett a fiam fia, szóval ment-ment dógozni. \nDógozott reggető estelledik, minden álldott nap. Hanemazértaztánetán elgyüt az elszámolás napja: a bérelszámolás! Mögkapta a pízt, megszámolta, \nköpött, egy nagyot, gondolt, egy igen cifrát, de mondani, csak ennyit mondott: Tündérgető! Máig nem tuggyuk mit akart ez jellentenyi.",
+        "datum2": "2019-06-16T22:00:00.000Z",
+        "sorszam": 176
+    },
+    {
+        "halan": "Varacskosbéka",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-16T22:00:00.000Z",
+        "sorszam": 177
+    },
+    {
+        "halan": "álzong",
+        "magyarazo2": "Cseszlovak",
+        "magy": "vannak, akik esküsznek arra, hogy ez a valódi zong; de természettudós szakértők kétséget kizáróan bizonyították, hogy nem, ez csak utánzat. \npersze nehéz volt megfigyelni, mert a zong köztudottan kizárólag éjszaka aktív, amikor rengeteget zong mindenfelé, és hallani ugyan könnyű, \nmegpillantani, sőt tanulmányozni viszont nehéz. az álzongot is a természet hozta létre, de pont azért, hogy kicsit kedvezzen a természettudósoknak. \nőket ugyanis sokkal könnyebb megfigyelni. bár a hangjukat kevésbé hallani.",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 178
+    },
+    {
+        "halan": "öhtúl",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Kandabula",
+        "magy": "hegyi legelők végeit hívják így a levendei pásztorok, mert ott kezdődik a szakadék. A túlmerészkedő beleesők szavajárása az \"öh\". Ha valaki eltűnik \nés érdeklődnek utána, többnyire csak ennyi a válasz: \"öhtúl\"...",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 179
+    },
+    {
+        "halan": "szököcös",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Olga75",
+        "magy": "A döcög és szökell szóból eredeztetik. Népies elnevezés, azokra az emberekre mondják, akik nem tudják mit akarnak, döntésképtelenek. Pejoratív \nértelemben az ostoba embereket is ezzel a szóval bélyegezték meg.",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 180
+    },
+    {
+        "halan": "túnycsíezés",
+        "bekuldo2": "Olga75",
+        "magyarazo2": "Kandabula",
+        "magy": "a túnygyártás folyamatának jellemző lépései: hozmiselés, jutgálás, majd a csíezés. Ha ezt kihagynák, nem kelepelne a túny. A csíezés komoly szakértelmet igényel, a titkos fogásokat félőn őrzik a családok, csak a Googlen érhetők el.",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 181
+    },
+    {
+        "halan": "vélgabúl",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "M.Laurens",
+        "magy": "Valószínűsíthetően egy elírás következménye, mivel Karinthy Frigyesnél ez áll:\n\"A pő, ha engemély, kimár –\nDe mindegegy, ha vildagár...\n...mert engemély mindet bagul,\nMint vélgaban a bégahur!...\"",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 182
+    },
+    {
+        "halan": "pő",
+        "bekuldo2": "M.Laurens",
+        "magyarazo2": "Olga75",
+        "magy": "a bő ellentéte, tehát szoros. Tehát ha az engemély kevés, akkor az kimar, de végülis mindegy, mert vildagár és amúgyis mindet bagul, szóval így van az, \nhogy a vélgaban a bégahur.",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 183
+    },
+    {
+        "halan": "Vélgabúl",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Olga75",
+        "magy": "Nem elírás következménye, hanem egy régen kihalt, levadászott, búsulópók, melynek végbél tájékából erős bódító méreganyagot nyertek. \n(Innen a vélgabúl elnevezés) A méreganyagnak nem volt ellenszere, így biztos halál várt az áldozatra. Csatákban és kínzóeszközként használták. \nEgyes források szerint a pók mérete Kb egy méter körüli volt.",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 184
+    },
+    {
+        "halan": "kállintra",
+        "bekuldo2": "Olga75",
+        "magyarazo2": "Kandabula",
+        "magy": "kocsmai szakzsargon. Burzsókfalván egyszer (?) Kállint Jenci nagyon berúgott. Olyannyira, hogy nagyivós haverjai is rácsodálkoztak. Attól kezdve, ha \nvalakivel mégis előfordult, hogy Jencihez hasonló állapotba került, csak ennyi jegyeztek meg: ez is kállintra itta magát!",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 185
+    },
+    {
+        "halan": "perkóca",
+        "bekuldo2": "Kandabula",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 186
+    },
+    {
+        "halan": "légkrém",
+        "magyarazo2": "Kandabula",
+        "magy": "agy művésznevén: pantomim-krém. Az olcsóbb némafilmek krémes-dobálásának alapanyag-helyettesítő pót-pótléka.",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 187
+    },
+    {
+        "halan": "kohájal",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Edeke",
+        "magy": "az abszolút \"mindenhájjal, még KO-hájal (helyesen kohállyal) is megkent egyén\". Protekció, és élvhajhász, spermahajder, a lányok, és a lányok anyjának \nmegrontója, a szupererogén zóna tulajdonos, a zsebes, korrupt, akkupunktum. Ő a némber van! Ez van....",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 188
+    },
+    {
+        "halan": "csengősbögyörő",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 189
+    },
+    {
+        "halan": "varjaroma",
+        "magyarazo2": "Edeke",
+        "magy": "az 1920-as évek nagy világrengető felfedezése volt. Címlapon hozta le a The Washington Post, a Nyújork Times, és a Lúdas Matyi. Kitalálójának \nbronzszobra van rézből a szülővárosában. Helybéli iskolások évente egyszer koszorúzzák, éjszakánként graffitizik az emlékművet. Az élet minden \nterületén használják, kivéve a hétköznapokban, háztartásban, vagy a munkahelyeken. Az első Volyáger szonda platinalemeze mellett, ezt is elküldtük \ntávoli UFO szakembereknek, hogy nekik is nagyban megkönnyítse az életét. Állítólag használják is a gyakorlatban, legalább is erre utal Pataky Attilával \nkészült interjú egy elejtett mondata: - Ja Yeah! Használják!",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 190
+    },
+    {
+        "halan": "akkupunktum",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 191
+    },
+    {
+        "halan": "cserevízor",
+        "magyarazo2": "Kandabula",
+        "magy": "A szovjet 85 kilós tyelevízor garanciajegye, amit Rakéta-porszívóra lehetett becserélni, amennyiben háztartásunkban szirénára volt szükség.",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 192
+    },
+    {
+        "halan": "gocsolka",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Cseszlovak",
+        "magy": "szovjet műszó azokra a dolgokra, amelyeket elvétve még lehetett találni a - máskülönben kongóan üres - polcokon a legnagyobb áruházakban. általában \nkülönböző kacatokat értettek alatta, mint egy csomag hajgumi, csontszínű műanyag szipka, Janis Joplin lemez (román kiadású), habszivacslabda stb. \nnagynéha száraz kiflicsücsök vagy félig rágott alma is lehetett...",
+        "datum2": "2019-06-17T22:00:00.000Z",
+        "sorszam": 193
+    },
+    {
+        "halan": "pampokli",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-06-18T22:00:00.000Z",
+        "sorszam": 194
+    },
+    {
+        "halan": "Noron Hadabi",
+        "magyarazo2": "Edeke",
+        "magy": "az észak-magyarországi Asóstenyere leghíresebb szülötte. Hírnevét onnan szerezte, hogy bár idegenhangzású nevéből nem ez következne, de ott született,\n tanult, gyerekeskedett, és ott is temették el. Mégsem emlékszik egy asóstenyerei ember sem arra, hogy ki lehetett ő hogy nézett ki. Számtalan nyoma \nvan a létezésének de a szomszédja, sőt a neje vagy a gyerekei sem emlékeznek rá. Annyira híres lett ezáltal, hogy 2018 őszén szobrot állítottak neki, \nde mivel nem tudták hogy néz ki a mai napig nem leplezték le..... Sírját meg lehetett tekinteni, mint helyi látványosságot, de a nagy forgalom miatt ez \névtől, csak előjegyzés alapján lehetséges. Addig is élő webkamerán \r\nkövetheti nyomon a rajongótábor mert Sanyi a gólya webkamerájának a bal felső sarkában, egy picit látszik.",
+        "datum2": "2019-06-18T22:00:00.000Z",
+        "sorszam": 195
+    },
+    {
+        "halan": "Párpia",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "terület, ill. űrtartalom mérésére szolgáló italbolti egység, amelyet egy különösen rossz természetű kocsmárosnéról neveztek el. egyébként felváltotta a \nnégyzetméter vodkát, annak ellenére, hogy annál kevesebbet jelöl.",
+        "datum2": "2019-06-18T22:00:00.000Z",
+        "sorszam": 196
+    },
+    {
+        "halan": "rosszhelyretettvessző",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Rozella",
+        "magy": "kettős jelentésű, közhasználatú, új-magyar összetett szó.\n1. jelentése: moderátorként kötelezően elvégzendő feladat\n2. jelentése: versíróként kötelezően elvégzendő feladat",
+        "datum2": "2019-06-18T22:00:00.000Z",
+        "sorszam": 197
+    },
+    {
+        "halan": "zugzegeső",
+        "bekuldo2": "Rozella",
+        "datum2": "2019-06-18T22:00:00.000Z",
+        "sorszam": 198
+    },
+    {
+        "halan": "főszorgul",
+        "magyarazo2": "Edeke",
+        "magy": "A fokozatok így követik egymást: alszorgul, szorgul, főszorgul. A legnagyonn szorgul a főszorgul ezek közül, ezzel is igazolva a nomen est oment. A \nszorgulok feladata az éjszakai légyott. Nagyon ritkán a légy itt, de ez annyira elenyésző hogy statisztikailag nem is jegyzik. Nos, sajnos eme szócikk \nszerzője, nincs teljesen képben a témát illetően, de, mivel szeret okoskodni, ezért azt a tanulságot vonja le, hogy a szorgulok (Fő, sima, al) tevékenysége \na léggyel van kapcsolatba. Szerintem. De nem biztos.",
+        "datum2": "2019-06-18T22:00:00.000Z",
+        "sorszam": 199
+    },
+    {
+        "halan": "Mobilrólírokapiroslámpáknál-\nörüljhogyeltudodolvasni.",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "ősi szitokszó egyes mongol törzseknél, főképp akkor hangzott el, ha patkószögbe léptek előtte",
+        "datum2": "2019-06-18T22:00:00.000Z",
+        "sorszam": 200
+    },
+    {
+        "halan": "zrokka",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-06-18T22:00:00.000Z",
+        "sorszam": 201
+    },
+    {
+        "halan": "kaspókiszony",
+        "magyarazo2": "Edeke",
+        "magy": "Pókméhészek gyarkori fóbiája, amikor nem tudja rendesen ellátni a munkáját az alany, mivel, rettenetesen retteg a kaspók-méh-pókhasától. Orvosilag, \ndemalgont, algopirint, és flumiocidilint szoktak ajánlani, de mivel ez teljesen más betegségekre jó, ezért a fóbiánál hatástalan. Általában kaspók-dublőrt, \nszoktak felvenni a méhészek, akik helyre rendbe, és helyre teszik az elfajzott kasokat. Mellékhatásként a gyakori helyettesítés következményeként \ngyakran előfordul, hogy a méhész születendő gyermeke gyakran hasonlít a dublőrre. De, hát ilyen a szelavi.",
+        "datum2": "2019-06-19T22:00:00.000Z",
+        "sorszam": 202
+    },
+    {
+        "halan": "Szelavi",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Cseszlovak",
+        "magy": "azt nevezik így, amikor a méhész gyermeke hasonlít a dublőrre, sőt, jobban.",
+        "datum2": "2019-06-19T22:00:00.000Z",
+        "sorszam": 203
+    },
+    {
+        "halan": "zsobre",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-06-19T22:00:00.000Z",
+        "sorszam": 204
+    },
+    {
+        "halan": "lisztópia",
+        "magyarazo2": "Cseszlovak",
+        "magy": "részletesen kidolgozott kánaán jellegű zenei mennyország wagnerérzékenyeknek",
+        "datum2": "2019-06-19T22:00:00.000Z",
+        "sorszam": 205
+    },
+    {
+        "halan": "pülü",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-06-19T22:00:00.000Z",
+        "sorszam": 206
+    },
+    {
+        "halan": "csőridáb",
+        "magyarazo2": "Kandabula",
+        "magy": "ez tipikus madárszer, módosult alfaj, beütéssel. Darwin a reszketegekhez sorolta (l. dabus resketus) Csőrük áztatható, préselésre alkalmas. Kedvelt \ntollhelyettesítő. A nagyközönség a \"subi-dubi dib-dáb\" örökzöldjéből ismeri.",
+        "datum2": "2019-06-19T22:00:00.000Z",
+        "sorszam": 207
+    },
+    {
+        "halan": "csőridőr",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Edeke",
+        "magy": "az évelő névelő hévvel hevített változata a grafológiai évkönyv negyedik oldala szerint. Használata európában ajánlott, Kínában kötelező, Észak-Korelában\n tiltott. Őszentsége harmadik Richárd pápa az ökomenikus zimahét didergőinek ajánlotta, de nekik nem kellett. Kutatások kimutatták, ha Petőfi élne, \nakkor nagyon öreg lenne.",
+        "datum2": "2019-06-19T22:00:00.000Z",
+        "sorszam": 208
+    },
+    {
+        "halan": "Alig Átor",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-19T22:00:00.000Z",
+        "sorszam": 209
+    },
+    {
+        "halan": "vállalati fosőr",
+        "magyarazo2": "Cseszlovak",
+        "magy": "politikailag korrekt megnevezése a munkahelyi wc-s néniknek vagy bácsiknak.",
+        "datum2": "2019-06-20T22:00:00.000Z",
+        "sorszam": 210
+    },
+    {
+        "halan": "paralelproli",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-06-20T22:00:00.000Z",
+        "sorszam": 211
+    },
+    {
+        "halan": "vállalati fosőr",
+        "magyarazo2": "Kandabula",
+        "magy": "mint ismeretes, a diktátorok és egyéb szarjankók - külföldi utazásaik során - külön tartályban gyűjtik székletüket és hazaszállíttatják, nehogy a \npartner/ellenfél/ellenség kianalizálja esetleges betegségüket, aljasságuk klinikai okait. Nos, ezt a naponta növő szarkupacot őrzi a fosőr, aki egy nagyon \nmegbízható, mélyen elkötelezett és motivált koronaőr. Bizonyhogy rendre előfordult, hogy a fosőr sikkasztott, lopott, sötét ügyletekbe keveredett, de a \nszarral mindig dekára eltudott számolni.",
+        "datum2": "2019-06-20T22:00:00.000Z",
+        "sorszam": 212
+    },
+    {
+        "halan": "szerteképes",
+        "bekuldo2": "Kandabula",
+        "datum2": "2019-06-20T22:00:00.000Z",
+        "sorszam": 213
+    },
+    {
+        "halan": "tavaszi sonkapatron",
+        "magyarazo2": "Edeke",
+        "magy": "híres zsidó étel lenne, ha a vallásuk azt nem tiltaná. De mivel tiltja, így a sonkapatron ritka. Egyedül, hitehagyott Júdás Prriestes fan az aki nyalja, pedig \nharapni kell. Amúgy jót tesz a koleszterinnek, meg a fogkőnek. A bélflórálól, nem is beszélek, mert kihányom a belemet.",
+        "datum2": "2019-06-21T22:00:00.000Z",
+        "sorszam": 214
+    },
+    {
+        "halan": "Kevelin",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-21T22:00:00.000Z",
+        "sorszam": 215
+    },
+    {
+        "halan": "faroslemez",
+        "magyarazo2": "Edeke",
+        "magy": "hogy megétsünk eztet, mindenképpen el kell magyarádzani, mi az az személ akinek a neveÍ: Nyiisd márki. Hát a gazdám vót, míg meg nem hótt. Nagyon \nundiragandhy ember vót: allain delon piszkált engemet, meg cseszegetett, hogy gazos a kert, meg likas a tető, mintha minden gon a kastélnál az én \nporblémám lett vón. Na odáig fajultak a dolgok, hogy most egy faroslemez koporsóban fekszik a hátsókertben, tisztelt fegyülegyő úr. Aztat megtudtam \ncsinálni, miután kilehelte a lelkit. Kitudta hogy nem bírja a verést? Hát szűken ez a faroslemez. Most elmehetek....?",
+        "datum2": "2019-06-22T22:00:00.000Z",
+        "sorszam": 216
+    },
+    {
+        "halan": "faroslemez",
+        "magyarazo2": "Kandabula",
+        "magy": "az eszkimók így hívják az olvadó jégből készített banánfagylaltot. Senki nem tudja, hogy miért.",
+        "datum2": "2019-06-22T22:00:00.000Z",
+        "sorszam": 217
+    },
+    {
+        "halan": "Vakantanka",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-22T22:00:00.000Z",
+        "sorszam": 218
+    },
+    {
+        "halan": "perplusz",
+        "bekuldo2": "Kandabula",
+        "datum2": "2019-06-22T22:00:00.000Z",
+        "sorszam": 219
+    },
+    {
+        "halan": "blazíró",
+        "magyarazo2": "Cseszlovak",
+        "magy": "olyan művész, aki kizárólag a cigarettáról, annak élvezetéről, használatáról, a hozzá fűződő viszonyról, érzelmekről ír - általában prózai munkákat",
+        "datum2": "2019-06-23T22:00:00.000Z",
+        "sorszam": 220
+    },
+    {
+        "halan": "fámadalom",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "zöldszervezetek világhimnuszának címe. A szöveg első versszaka: \"Neked a fádadalod, nekem a fámadalom, nekünk a fánkadalunk, oh ye, mi zöldek \nvagyunk.\" A himnuszt általában aszfalton fetrengve éneklik az elkötelezett aktivisták, a feeling miatt.",
+        "datum2": "2019-06-23T22:00:00.000Z",
+        "sorszam": 221
+    },
+    {
+        "halan": "törcsinnózlás",
+        "bekuldo2": "Molnar-Jolan",
+        "datum2": "2019-06-23T22:00:00.000Z",
+        "sorszam": 222
+    },
+    {
+        "halan": "csókroham",
+        "magyarazo2": "Edeke",
+        "magy": "kezdő szerelmespárokra rátörő késztetés, hogy itt-ott-amott egymásnak essenek. Ezért fontos a szerelmes embereknél a szájhigiénia, és a helyes \nfogápolás, nehogy kiforduljon a bele a partnernak, mert az irtó kellemetlen tud lenni pár évtized elmultával, amikor az alzheimer csak ezeket a fránya \nemlékeket hagyja meg nekünk, a franc a pofáját.",
+        "datum2": "2019-06-23T22:00:00.000Z",
+        "sorszam": 223
+    },
+    {
+        "halan": "elkötelezett szótárszerző",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-23T22:00:00.000Z",
+        "sorszam": 224
+    },
+    {
+        "halan": "tükörverem",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Szederfalu",
+        "magy": "mondta vala egyszer csak egy bölcs, hogy a szem a lélek tükre. Na meg, hogy ha beleesünk valakibe, mélyen a szemébe nézünk, mer a szerelem \naz sötét verem, és hát ki kellene fűrkészni mi is a másik szándékja. Ebből az összevisszaságból is látható, hogy milyen összetett szó ez a feladvány. Tükör \nis meg verem is a szem, hát na. Ha valaki még tudja követni az okfejtésem, az tegye fel a kezit, aki meg mégsem az vigyázzon, mert tükörverem, izé. \nPofán. Kuss. Amúgy, szerintem nem ez a megoldás. A tükörverem egy olyan kínzó eszköz, amibe öregedő nőket dobnak józanodási céllal. De pszt, ez titok.",
+        "datum2": "2019-06-24T22:00:00.000Z",
+        "sorszam": 225
+    },
+    {
+        "halan": "csittalván",
+        "bekuldo2": "Szederfalu",
+        "magyarazo2": "Kandabula",
+        "magy": "(lat. tsitus alvanus): a jól ismert csattogó alván kevésbé ismert, csittegő alfaja. Lepréselt példányaiból bumerángot és kredencet faragnak az értők.",
+        "datum2": "2019-06-25T22:00:00.000Z",
+        "sorszam": 226
+    },
+    {
+        "halan": "hoszmert",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Edeke",
+        "magy": "legelőelosztás hiteles mértékegysége. Egy hoszmert, tíz tizedhoszmert. Az SI mértékrendszer leváltását célzó törekvések első megnyilvánulása. Egy \nméter=egy hoszmert, csak ezért, hogy könnyebb legyen számolni. Tudósok, és politikusok kisebb desszantcsoportja küzd a kigollramm, a vektorliter, \nés a zóra bevezetéséért.",
+        "datum2": "2019-06-25T22:00:00.000Z",
+        "sorszam": 227
+    },
+    {
+        "halan": "Jáf",
+        "bekuldo2": "Edeke",
+        "magy": "Jáf ashim, alamro dastam shun. Ez a teljes felirat. \"Ébredj hamar, fejd meg a kecskét.\" Bár ismeretlen nyelven íródott, a legfrissebb mesterséges \nintelligenciával megtámogatott kutatások szerint ezt jelenti ez az Atlasz hegységben talált felirat. A felirathoz közel csöbröt, kecskeszarvat és egy \nfélbehagyott sonkás szendvicset találtak a tudósok, úgyhogy még kicsit bizonytalanok.",
+        "datum2": "2019-06-26T22:00:00.000Z",
+        "sorszam": 228
+    },
+    {
+        "halan": "fásiru",
+        "magyarazo2": "Kandabula",
+        "magy": "(héberül urisáf), kultikus étrend-kiegészítő kenőcs, elsősorban jégverés és bőrfejűség ellen, egyben papírhordozó.",
+        "datum2": "2019-06-26T22:00:00.000Z",
+        "sorszam": 229
+    },
+    {
+        "halan": "hamáslik",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "M.Laurens",
+        "magy": "a máslik feltételes módban. A szótőben található \"máslik\" jelentése pedig: Nem ez a nekedvaló \"lik\". Népiesch értelmezésben a megcsalt hitves szokás \nmondani: \"hamáslik lell akkor...\" ( A folytatásától a jólneveltségem okán eltekintek...)",
+        "datum2": "2019-06-26T22:00:00.000Z",
+        "sorszam": 230
+    },
+    {
+        "halan": "csucsinda",
+        "bekuldo2": "M.Laurens",
+        "datum2": "2019-06-27T22:00:00.000Z",
+        "sorszam": 231
+    },
+    {
+        "halan": "lájkobra",
+        "magyarazo2": "Edeke",
+        "magy": "És valá, a kelgyó megszólítá Évát: Kapd be az almámat! És kínáld meg vala az uradat és papucsodat, azt leend Ádámot! Éva úgy tevendett, megeteté \nférjét, és rájöve, hogy meztelen. Mikor az Úr eljöve elbujdokolának előle. Kérdé az: Vaj`h mi van he? Válaszolá az bűnös nőszemély: Ki van a nunám! \nErre az Úr kitagadá őket az paradicsomból, mert Ettek az tudás almájából! (Pedig először nem is ők ettek, hanem a kukacz. de ez most mindegy..) \nMindenesetre a kelgyó örüle neki, azaz lájkolta a cselekedetet, azaz lájkobra...hehe",
+        "datum2": "2019-06-27T22:00:00.000Z",
+        "sorszam": 232
+    },
+    {
+        "halan": "Természetellenesszőke",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "M.Laurens",
+        "magy": "Arra a nőre mondják, aki szőkesége ellenére három férjjel, hat gyerekkel szerzett tizenkét diplomát, és jelenleg is államfő a hold túloldalán létesült \nBizgerádia kolóniában.",
+        "datum2": "2019-06-27T22:00:00.000Z",
+        "sorszam": 233
+    },
+    {
+        "halan": "Tyúkmutyuli",
+        "bekuldo2": "M.Laurens",
+        "magyarazo2": "kevelin",
+        "magy": "Utyuli putyuli mutyuli tyúkdalszöveg címe",
+        "datum2": "2019-06-28T22:00:00.000Z",
+        "sorszam": 234
+    },
+    {
+        "halan": "Szinpád",
+        "bekuldo2": "kevelin",
+        "datum2": "2019-06-28T22:00:00.000Z",
+        "sorszam": 235
+    },
+    {
+        "halan": "csoszornya",
+        "magyarazo2": "Kandabula",
+        "magy": "a vízimalom-csőszök ornya okostelefonos üzenetben, de világítótornyoknál is használják. Vásárlásakor ügyeljünk az átmérőre.",
+        "datum2": "2019-06-28T22:00:00.000Z",
+        "sorszam": 236
+    },
+    {
+        "halan": "abhallam",
+        "bekuldo2": "Kandabula",
+        "magyarazo2": "Twilight",
+        "magy": "aberrált hajlam a halleves rántott csirkéből történő elkészítésére, amit egyes vízi jószágoknál éljenzéssel ünnepelnek, a baromfiudvarban viszont fekete \ncsütörtökkel.",
+        "datum2": "2019-06-28T22:00:00.000Z",
+        "sorszam": 237
+    },
+    {
+        "halan": "malliminóka",
+        "bekuldo2": "Twilight",
+        "datum2": "2019-06-28T22:00:00.000Z",
+        "sorszam": 238
+    },
+    {
+        "halan": "szetyerő",
+        "magyarazo2": "Edeke",
+        "magy": "igazság szerint ilyen szó nem létezik.( Bizonyíték: \nhttps://www.google.com/search?q=szetyer%C5%91&oq=szetyer%C5%91&aqs=chrome.0.69i59.61065j0j9&sourceid=chrome&ie=UTF-8 )\nMindennapi használatban, nagyon ritkán, sőt, inkább sosem használják. Leírva, vagy hangfelvételen, esetleg videón, még, csak elvétve sem találkozunk \nvele, A szájhagyomány úgy tartja, hogy valamikor a hatvanas évek vége felé, egy orosz tudósokból álló csoport majdnem lejegyezte, de ezt az akkori \nzavaros dokumentációk archiválásának a hiányára való tekintettel sem megerősíteni, inkább cáfolni sem merem. Úgyhogy a magyarázattal adós \nmaradok, ám mivel buzgó mócsing vagyok, mindenképpen hozzá kellet szólnom a témához. (Most elgondolkodtam a politikai pályán....hmm.) \nEnnyit a szetyerőről.....",
+        "datum2": "2019-06-29T22:00:00.000Z",
+        "sorszam": 239
+    },
+    {
+        "halan": "alattomos házasságdédelgő",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-06-29T22:00:00.000Z",
+        "sorszam": 240
+    },
+    {
+        "halan": "hombolda",
+        "magyarazo2": "Edeke",
+        "magy": "virtuális eszköz. Játákgépfejlesztők fejlesztették ki, a virtuális karakterek szórakoztatására. Amikor pauzéznak. Ritkán fordul elő, de elő fordul. Olyankor \nelőveszik a homboldát, és játszanak: VELED!!!! ugyhogy gondold át mit teszel a karaktereddel, mert, ha kezébe kerül a hombolda, lesz brühühü, meg \nbosszúállók tizenhat....",
+        "datum2": "2019-07-02T22:00:00.000Z",
+        "sorszam": 241
+    },
+    {
+        "halan": "szonettversenyző",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-07-02T22:00:00.000Z",
+        "sorszam": 242
+    },
+    {
+        "halan": "kalabér",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "Pirx kapitány,a híres űrkalandor hatvanhat lövetű sugárfegyvere. Egy gőzvasalóra gumizott szilíciumlemezke volt, amellyel a csumidákat aprította, \nám kissé szórakozott lévén folyton az asztrogátornő vitte utána. Legendássá lett szólása: Hol a vérben van a kalabérem?",
+        "datum2": "2019-07-09T22:00:00.000Z",
+        "sorszam": 243
+    },
+    {
+        "halan": "turkolgató",
+        "bekuldo2": "Molnar-Jolan",
+        "magyarazo2": "Twilight",
+        "magy": "halászcsárdákban kötelező jelleggel elfogadott népi szertartás, mely az ízletes főfogást követő, kenyeres-talpas maradékszafttalanítás pusztán szokás \nszerinti történő elvégzését jelenti berettyár módon.",
+        "datum2": "2019-07-09T22:00:00.000Z",
+        "sorszam": 244
+    },
+    {
+        "halan": "berettyárok",
+        "bekuldo2": "Twilight",
+        "datum2": "2019-07-09T22:00:00.000Z",
+        "sorszam": 245
+    },
+    {
+        "halan": "sirályláz",
+        "magyarazo2": "Twilight",
+        "magy": "az aranyláz mellékhatása, amikor a tűző napon aranyat keresők délibábjában halálsirályok sirámainak képei kísértettek a tettek mezejére nem lépőket \nhalálos veszélybe, illetve kard-kanyonba taszítva. Az arany elfogytával és az ásók eltűnésével viszont lecsengett eme elmejárvány és manapság már \ncsak mint 2019-es Ford S modell (k)irály hozza lázba a saját személygépjárművel még nem rendelkezőket.",
+        "datum2": "2019-07-09T22:00:00.000Z",
+        "sorszam": 246
+    },
+    {
+        "halan": "krincstelenség",
+        "bekuldo2": "Twilight",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "a hejőszegényi zulukofferek töknádból font fejfedőjét hívták krincsnek. Pecsenyezsírral kenték, hogy jobban rittyenjen a karimája. Mikor a fehérepéjű \ncsigások megtámadták őket, úgy eltökítették krincsüket, hogy hírmondóba se maradt. Ez volt a nagy tökvész és krincstelenség korszaka.",
+        "datum2": "2019-07-09T22:00:00.000Z",
+        "sorszam": 247
+    },
+    {
+        "halan": "taskonyat",
+        "bekuldo2": "Molnar-Jolan",
+        "datum2": "2019-07-09T22:00:00.000Z",
+        "sorszam": 248
+    },
+    {
+        "halan": "boroglya",
+        "magyarazo2": "Edeke",
+        "magy": "aljas rendű szóösszetétel. Amikor finnugor őseink a nyereg alatt puhított nachost megismertették a fejletlen nyugati civilizációval, még hátrafele nyilaztak. Azaz: \nlinyaztak (36) Ekkor terjedt el a mondás az európai unióban hogy a magyarok politikusaitól ments meg uram minket. Ez az össznépi rettegés, és megvetés \ngyüjtőszava a boroglya. Ha ezt hallja a külföldre szakadt hazánkfia, inkább vallja románnak magát, még az is jobb opció.",
+        "datum2": "2019-07-09T22:00:00.000Z",
+        "sorszam": 249
+    },
+    {
+        "halan": "Mózes bárkája",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-07-09T22:00:00.000Z",
+        "sorszam": 250
+    },
+    {
+        "halan": "Linyaz",
+        "magyarazo2": "Twilight",
+        "magy": "nyasgem kamionmárka rinyáló luvnyák számára, akik szeretnének néha kiszakadni a világból és elhúzni a csíkot jó messzire.",
+        "datum2": "2019-07-09T22:00:00.000Z",
+        "sorszam": 251
+    },
+    {
+        "halan": "fribironciás",
+        "bekuldo2": "Twilight",
+        "magyarazo2": "Cseszlovak",
+        "magy": "sportjátékokat - elsősorban a fribit - kedvelő utcalányok vezető edzője. az utcalányok titkos tanácsa nevezi ki, általában 2 évre.",
+        "datum2": "2019-07-10T22:00:00.000Z",
+        "sorszam": 252
+    },
+    {
+        "halan": "lémedés",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "tüchtig háziasszonyok réme: elromlott fagyasztóból folydogáló húslé, kezdeti stádiumában pattogó hangok kísérik, végfázisban hisztérikus roham, \nsírógörcs, és felmosórongy.",
+        "datum2": "2019-07-10T22:00:00.000Z",
+        "sorszam": 253
+    },
+    {
+        "halan": "dögerbombó",
+        "bekuldo2": "Molnar-Jolan",
+        "magyarazo2": "M.Laurens",
+        "magy": "A SAlgótarjáni Bombó mulató döger-otikus szekciójának a neve, ahol az elegancia kötelező! Cím: 3100 Salgótarján Mérleg út 4.\nhttps://cdn-az.allevents.in/banners/23b63fcb0ae188b0c0c57ef761a964a1",
+        "datum2": "2019-07-10T22:00:00.000Z",
+        "sorszam": 254
+    },
+    {
+        "halan": "Sengrepáré (családi szókincs)",
+        "bekuldo2": "M.Laurens",
+        "magyarazo2": "Cseszlovak",
+        "magy": "egy kis házikóforma miniépítmény lapostetejű házak tetején; eredetileg egy gerlepáré volt, de a kilencvenes években egy hajléktalan házaspár, \nSengre Géza és Sengréné Margit kisajátította. aztán már mindenki tudta, hogy az átmeneti hajlék a Sengrepáré. később köznevesült és minden \nminiépítményt így neveznek azóta.",
+        "datum2": "2019-07-10T22:00:00.000Z",
+        "sorszam": 255
+    },
+    {
+        "halan": "kunkoricalepény",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Kipy",
+        "magy": "Mint azt minden gourmet receptkönyv taglalja, e lepény málé a málék közt, de van egy csavar a dologban: mivel általában este keverik meg, így a bágyadt fényben\n a mindennapok által meggyötört kezek készítik sütésre készre, de csupán reggel kerül végső stádium-szerű `sztedire`. \nA legenda szerint az éjszaka folyamán \nazonban az első kunkoricalepény készítő ember gyermeke lázálom végett alvajárást folytatott, majd a konyhába betévedve, a hófehér, tiszta konyharuhát \nfelemelve a pihegő félkész tésztára nyitotta ki csöpp szemeit. Mivel a Hold csak félhomályra világította fel a helyiséget - és természetesen a láz is dolgozott \nbenne közben - puliszkának nézte a lepénynek valót, s apró mutatóujjával bele-bele kavart, hogy kóstolni tudjon, de mindhiába. Mire feleszmélt, hogy nem a \nkívánt étel került ujja ügyébe, az előbb leemelt tiszta konyharuhával szándékozott leplezni tettét, mintha mi sem történt volna, majd tompa koppanással elterült \na küszöbön, hála a falnak támasztott parfis-lapát egyvelegnek. Szerencsére édesanyja, meghallva a koppanást, ágyba segítette beteg gyermekét, így az éjszaka \nfönnmaradó része békében telhetett el. Ám reggelre a tészta nem felejtett, így az apró ujjak által belecsavart forma belékelt a napi betevő alakjába. Látva ezt \nemberünk odaszólt élete párjának, mely azóta ezen a vidéken már eredethistóriaként került bele a néprajzi könyvekbe: \"Kunkoríts a lepényből legalább a felét; \na betevő többije mind a tiétek.\"",
+        "datum2": "2019-07-10T22:00:00.000Z",
+        "sorszam": 256
+    },
+    {
+        "halan": "sputli",
+        "bekuldo2": "Kipy",
+        "magyarazo2": "Cseszlovak",
+        "magy": "kis, tűhegyes szerszám, amellyel rejtélyes módon eredményesen lehet megakadályozni a kisebb, helyi illetőségű árvizeket. használatának módja \nazonban hétpecsétes titok, csak a sputliőrök ismerik és ismerhetik, valamint alkalmazni is csak ők tudják a szerszámot a megfelelő időben.",
+        "datum2": "2019-07-10T22:00:00.000Z",
+        "sorszam": 257
+    },
+    {
+        "halan": "üleg",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Edeke",
+        "magy": "hitvány kézipoggyászlejmoló reptéri alkalmazott idológia, miszerint amit nem vesz a kamera az nem számít aljadalomnak. Ezért aztán szabad a \nvásár alapú bőrönbenyúlások alkalmával a nagynak igérkező kecsegtetések szakzsrgon neve az üleg. Ha valakinek ülege van, aznap ő fizeti a kisföccsöt \na sarki talponállóban. De ezt nem bánja, hiszen ebül szerzett jószágnak nincs szaga, ahogy a költő mondaná.Ha akarná.",
+        "datum2": "2019-07-10T22:00:00.000Z",
+        "sorszam": 258
+    },
+    {
+        "halan": "Coulombség",
+        "bekuldo2": "Edeke",
+        "magyarazo2": "M.Laurens",
+        "magy": "•1. Tudományos jelentése: A CGS (centiméter-gramm-szekundum) rendszerben az elektromos töltés egységességességének meghatározása.\n•2. Köznyelvi/korcsmai szleng: Hat féldeci után a \"különbség\" már igen nehéz szó, tekintettel az \"ü\" betün lévő két pettyre amit egyenként is nehéz, \nki pötykölni, nemhogy tántorogva (netán négykézláb) együttesen, és akkor még a \"K\" betűről szó sincs!",
+        "datum2": "2019-07-10T22:00:00.000Z",
+        "sorszam": 259
+    },
+    {
+        "halan": "turbóumbulda",
+        "bekuldo2": "M.Laurens",
+        "magyarazo2": "Cseszlovak",
+        "magy": "áltudományos megnevezés a nagyon rövid, egyben nagyon gyors szekszuális aktusra",
+        "datum2": "2019-07-11T22:00:00.000Z",
+        "sorszam": 260
+    },
+    {
+        "halan": "patalinus",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-07-11T22:00:00.000Z",
+        "sorszam": 261
+    },
+    {
+        "halan": "Excsirkre",
+        "magyarazo2": "Edeke",
+        "magy": "az élet múlandóságára emlékeztető milyenségszó. Ami egykor csodálatos kapcsolat volt, ma már, csak a múlt. Hogy a magyarul tanulni vágyók, \nszóképekkel megspékelt tipikus magyar gondolkodású kifejezéseit is könnyebben megértsék, ezért általában az ilyen, és ehhez hasonló, valamint \negypetéjű szóvirágokhoz hozzákötnek egy kisebb storyt, illetve anekdotát. Ezt a feelinget, vagy mai szóval: életérzést (de mondhatnánk jogosan \nételérzést is) azzal teszik könnyebben befogadhatóvá, hogy ami egykor csirke-ember barátságként indult, ma, már csupán töltöttcsirkre-ember \nviszonyban manifesztálódik. Ám, mivel kiskorúak is olvashatják eme szótárt, hogy elvegyék a búbánatos való élét, e csirke szó kapott egy extra \"R\" betűt.",
+        "datum2": "2019-07-12T22:00:00.000Z",
+        "sorszam": 262
+    },
+    {
+        "halan": "Rombuszháromszög-tétel",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-07-12T22:00:00.000Z",
+        "sorszam": 263
+    },
+    {
+        "halan": "kapanyűg",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "Az unalomig ismert magyar népmese váratlan fordulata, mikor Fehérlófia béklyót vet Hétszünyű Kapanyányimonyókra, és hátáról eszi meg a forró zabkását.",
+        "datum2": "2019-07-13T22:00:00.000Z",
+        "sorszam": 264
+    },
+    {
+        "halan": "trunkolmány",
+        "bekuldo2": "Molnar-Jolan",
+        "datum2": "2019-07-13T22:00:00.000Z",
+        "sorszam": 265
+    },
+    {
+        "halan": "sarajd",
+        "magyarazo2": "Cseszlovak",
+        "magy": "eredetileg egy alig 240 fős község Perőcsény és Tarja között, de az ott lakók legendásan pedánsak (voltak), s egy idő után azokról a falusiakról, akik \na rendre kezelhetetlen kaotikus portáikon mégis elvágólagos rendet tartottak kezdtek úgy beszélni, hogy \"nézd már, ez is mekkora sarajd\"",
+        "datum2": "2019-07-13T22:00:00.000Z",
+        "sorszam": 266
+    },
+    {
+        "halan": "kuszoda",
+        "bekuldo2": "Cseszlovak",
+        "datum2": "2019-07-13T22:00:00.000Z",
+        "sorszam": 267
+    },
+    {
+        "halan": "Úszócumi",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "népies szóhasználatban: strandmedence színén lebegő kaksi. másik jelentése vidracickányok mellúszóján található kitüremkedés, melyből tejszerű \nváladékot ürítenek az ellenséges mormotákra, ezzel adva tudtukra: tágulj kiccsávó, mert szívni fogsz.",
+        "datum2": "2019-07-13T22:00:00.000Z",
+        "sorszam": 268
+    },
+    {
+        "halan": "kördecka",
+        "bekuldo2": "Molnar-Jolan",
+        "datum2": "2019-07-13T22:00:00.000Z",
+        "sorszam": 269
+    },
+    {
+        "halan": "telfonkönny",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "szótári elírás, valójában teflonkönny. A Zsírcunami kft. fejlesztése, hagymázas eljárással készült edénybevonat, mely sütés-főzés közben erős \nkönnyezést vált ki, miáltal krónikus szemszárazságban szenvedő háziasszonyokon is segít. Szinkrongyűrűvel és szalámiszeletelővel kiegészítve \nproaktív konyhai készség.",
+        "datum2": "2019-07-14T22:00:00.000Z",
+        "sorszam": 270
+    },
+    {
+        "halan": "tőrgyálom",
+        "bekuldo2": "Molnar-Jolan",
+        "magyarazo2": "Cseszlovak",
+        "magy": "eredetileg szótári elírásnak vélték, mert azt jelentette, amikor kismellű hölgyek nagyobbra vágytak; de aztán rájöttek, hogy mégis szótári elírás, \ncsak másként, azt jelenti, hogy szúrófegyver található egy Pest megyei településen. végül kiegyeztek abban, hogy a tőrgyálom egész egyszerűen \na mindenkori szótári elírása szinonimája.",
+        "datum2": "2019-07-14T22:00:00.000Z",
+        "sorszam": 271
+    },
+    {
+        "halan": "pöttörödik",
+        "bekuldo2": "Cseszlovak",
+        "magyarazo2": "Kipy",
+        "magy": "A töpörödik szóból önállósodott. Annak kifejezésére szolgál, mikor valaki, vagy valami eleve olyannyira csöpp, hogy nem látnak esélyt arra, hogy \nennél is kisebbé légyen valaki. Mivel ez mégis megtörtént, annak apropóján, hogy nem találtak szavakat, egy eltévesztett anagramma vezetett e \nszóalakhoz. Indokolt esetben a jelentése megváltozhat, lásd: elépöttörödik = eléfut. \"A kisleány annyira megörült munka miatt távol volt édesapjának, \nhogy menten elépöttörödött.\" Csak az `el` igekötővel változhat jelentése, mert azt az egyet nem jegyzőkönyvezték a szó megszületését követően.",
+        "datum2": "2019-07-14T22:00:00.000Z",
+        "sorszam": 272
+    },
+    {
+        "halan": "Kalrajos Rikkárdó Nintendó",
+        "bekuldo2": "Kipy",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "a Kalánycsalódi kisebbségi önkormányzat képviselője, egyben Bodzahajú csóré csajé című rapnóta szövegírója. Nevéhez fűződik, hogy a Nagy \nJáratritkítások idején szamurájkarddal levágta a járási mentős bal fülét.",
+        "datum2": "2019-07-14T22:00:00.000Z",
+        "sorszam": 273
+    },
+    {
+        "halan": "drogtoranbusz",
+        "bekuldo2": "Molnar-Jolan",
+        "magyarazo2": "Edeke",
+        "magy": "már dolgozni tudó, de, még tanulmányait végző ranbuszok. A ranbuszok, a pelikánlábúak alfajából fejlődtek vissza. Származásukat Darwin is vizsgálta, \nbár erről se, egy feljegyzés, se egy rajz, vagy szájhagyomány nem maradt fent. Úgyhogy az is lehet, hogy nem, vagy igen. Egy a biztos: a Vagy! \nManapság nagyon kevesen válnak ranbusszá, így nem születnek kis ranbuszok, akikből droktoranbuszok lennének. Talán egyszer csak úgy emlékezünk \nrájuk, mint ma a kétkazettás magnóra, vagy az iskolaköpenyre. Utolsó példányaikat az egyetemes egyetemek kitömés részlegén figyelhetjük meg, illetve \ndélamerika kokaültetvényeinek a környékén.",
+        "datum2": "2019-07-15T22:00:00.000Z",
+        "sorszam": 274
+    },
+    {
+        "halan": "Hűvöskocka",
+        "bekuldo2": "Edeke",
+        "datum2": "2019-07-15T22:00:00.000Z",
+        "sorszam": 275
+    },
+    {
+        "halan": "telemetrom",
+        "magyarazo2": "Twilight",
+        "magy": "telefonos jósdából az emeleti szomszédra kért trombózisátok, amit csak gonosz lelkek képesek küldeni. Viszont bumerángként működik, tehát idővel \nvisszatér a feladóhoz és így mindkét fél kórházban végzi - súlyosabb, teliholdas esetekben egyenesen a temetőben. Ajánlatos tehát elkerülni - vagy \nidejében elköltözni, mert ellenszere, kivédési taktikája nincs és feloldására is csak a hófehérmágusok leszármazottainak legfőbbbika képes az ónperencián \ntúl, de mivel arra a járás halandók számára nem ismert, így csak újabb mágikus procedúrák és esetleges lélek-testvesztés árán elképzelhető a gyógymód \nkétes kimenetellel, szóval bonyolult. Maradj inkább barátságos és soha ne lakj emeleten, az egyszerűbb!",
+        "datum2": "2019-07-15T22:00:00.000Z",
+        "sorszam": 276
+    },
+    {
+        "halan": "mágikamakromanóramortikum",
+        "bekuldo2": "Twilight",
+        "datum2": "2019-07-15T22:00:00.000Z",
+        "sorszam": 277
+    },
+    {
+        "halan": "disznógráfia",
+        "magyarazo2": "Molnar-Jolan",
+        "magy": "Az intelligens malacok íráskészségét tanulmányozó új tudományág. A CBA áruház cégérét már simán kibetűzik, egyes kutatók beszédre is oktatják őket, \n\"Heló, Röfi!\" köszöntéssel.",
+        "datum2": "2019-07-16T22:00:00.000Z",
+        "sorszam": 278
+    },
+    {
+        "halan": "szöttyenzi",
+        "bekuldo2": "Molnar-Jolan",
+        "magyarazo2": "Twilight",
+        "magy": "szörnyen löttyedt keblű, zizi vénlányok jelzője Szöttyenfalván. Nem összekeverendő a mekkenzivel, ami kellemesebb idomokkal bár, de megkergült \nformában jellemzi a pártában maradt, nőnemű egyedeket.",
+        "datum2": "2019-07-16T22:00:00.000Z",
+        "sorszam": 279
+    },
+    {
+        "halan": "szkramblukanszié",
+        "bekuldo2": "Twilight",
+        "datum2": "2019-07-17T22:00:00.000Z",
+        "sorszam": 280
     }
 ] 
 

@@ -83,7 +83,12 @@ function showSlides(n) {
   }
 
   halan.innerHTML = `<h1>${szotar[n]['halan']}</h1>`;
-  magy.innerText = szotar[n]['magy'];
+  
+  if (szotar[n]['magy'] === undefined) {
+    magy.innerText = "Törölt Tag";
+  } else {
+    magy.innerText = szotar[n]['magy'];
+  }
 
   if (szotar[n]["bekuldo2"] === undefined) {
     bekuldo2.innerText = 'Törölt Tag';

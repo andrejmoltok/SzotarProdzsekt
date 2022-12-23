@@ -118,7 +118,7 @@ function selectLetterGroup(letter) {
     for (let i = 0; i < newGroup.length; i++) {
       sorted = newGroup.sort((a,b) => a.halan.localeCompare(b.halan))
     }
-    //console.log(sorted);
+    console.log(sorted);
     groupSlides(slideIndex);
 }
 
@@ -175,7 +175,7 @@ function groupSlides(n) {
       magy.style.overflowY = "scroll";
       magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
-    } else if (Math.round(text.width) > 4000 && myMin1084.matches === true){
+    } else if (Math.round(text.width) > 4000 && my1084.matches === true){
       magy.style.overflowY = "scroll";
       magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
@@ -194,7 +194,12 @@ function groupSlides(n) {
     }
   
     halan.innerHTML = `<h1>${sorted[n].halan}</h1>`;
-    magy.innerText = sorted[n].magy;
+
+    if (szotar[n]['magy'] === undefined) {
+      magy.innerText = "Törölt Tag";
+    } else {
+      magy.innerText = sorted[n]['magy'];
+    }
   
     if (sorted[n].bekuldo2 === undefined) {
       bekuldo2.innerText = 'Törölt Tag';
@@ -205,7 +210,7 @@ function groupSlides(n) {
     if (szotar[n]["magyarazo2"] === undefined) {
       magyarazo2.innerText = "Törölt Tag";
     } else {
-      magyarazo2.innerText = szotar[n]['magyarazo2'];
+      magyarazo2.innerText = sorted[n]['magyarazo2'];
     }
     
     datum2.innerText = sorted[n].datum2.slice(0,10);
