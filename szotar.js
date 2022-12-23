@@ -5037,7 +5037,7 @@ let szotar = [
     {
         "halan": "szetyerő",
         "magyarazo2": "Edeke",
-        "magy": "igazság szerint ilyen szó nem létezik.( Bizonyíték: \nhttps://www.google.com/search?q=szetyer%C5%91&oq=szetyer%C5%91&aqs=chrome.0.69i59.61065j0j9&sourceid=chrome&ie=UTF-8 )\nMindennapi használatban, nagyon ritkán, sőt, inkább sosem használják. Leírva, vagy hangfelvételen, esetleg videón, még, csak elvétve sem találkozunk \nvele, A szájhagyomány úgy tartja, hogy valamikor a hatvanas évek vége felé, egy orosz tudósokból álló csoport majdnem lejegyezte, de ezt az akkori \nzavaros dokumentációk archiválásának a hiányára való tekintettel sem megerősíteni, inkább cáfolni sem merem. Úgyhogy a magyarázattal adós \nmaradok, ám mivel buzgó mócsing vagyok, mindenképpen hozzá kellet szólnom a témához. (Most elgondolkodtam a politikai pályán....hmm.) \nEnnyit a szetyerőről.....",
+        "magy": "igazság szerint ilyen szó nem létezik.  Mindennapi használatban, nagyon ritkán, sőt, inkább sosem használják. Leírva, vagy hangfelvételen, esetleg videón, még, csak elvétve sem találkozunk vele, A szájhagyomány úgy tartja, hogy valamikor a hatvanas évek vége felé, egy orosz tudósokból álló csoport majdnem lejegyezte, de ezt az akkori zavaros dokumentációk archiválásának a hiányára való tekintettel sem megerősíteni, inkább cáfolni sem merem. Úgyhogy a magyarázattal adós maradok, ám mivel buzgó mócsing vagyok, mindenképpen hozzá kellet szólnom a témához. (Most elgondolkodtam a politikai pályán....hmm.) Ennyit a szetyerőről.....",
         "datum2": "2019-06-29T22:00:00.000Z",
         "sorszam": 239
     },
