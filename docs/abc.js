@@ -11,6 +11,7 @@ let slideIndex = 0;
 
 function selectLetterGroup(letter) {
     newGroup = [];
+    slideIndex = 0;
     if (letter === 'a') {
         for (let i = 0; i < szotar.length; i++) {
             if (szotar[i]['halan'][0].toLowerCase() === 'a' ||
@@ -171,6 +172,10 @@ function groupSlides(n) {
       magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
     } else if (Math.round(text.width) > 7000 && my984.matches === true) {
+      magy.style.overflowY = "scroll";
+      magy.style.overflowX = "hidden";
+      magy.style.alignItems = "normal";
+    } else if (Math.round(text.width) > 4000 && my1084.matches === true){
       magy.style.overflowY = "scroll";
       magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";

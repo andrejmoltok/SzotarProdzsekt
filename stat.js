@@ -42,7 +42,7 @@ function bekuldoCounter() {
     
     arr.sort((a,b) => b[1] - a[1]);
 
-    if (arr.length > 15) {
+    if (arr.length > 18) {
         canv1.style.width = '600px';
         canv1.innerHTML = `<canvas id="bekuldo" width=${arr.length*31}px height=550px></canvas>`;
         canv1.style.overflowX = "scroll";
@@ -109,7 +109,7 @@ function magyarazoCounter() {
 
     //console.log(arr);
 
-    if (arr.length > 15) {
+    if (arr.length > 18) {
         canv2.style.width = '600px';
         canv2.innerHTML = `<canvas id="magyarazo" width=${arr.length*31}px height=550px></canvas>`;
         canv2.style.overflowX = "scroll";

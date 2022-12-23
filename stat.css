@@ -10,6 +10,7 @@
 .p {
     margin-bottom: 20px;
     text-align: center;
+    font-size: 22px;
 }
 
 @media all and (max-width: 625px) {
