@@ -39,12 +39,12 @@ function bekuldoCounter() {
         }
         arr.push([[...bekuldoSet][i],count]);
     }
-    
+    console.log(arr);
     arr.sort((a,b) => b[1] - a[1]);
 
     if (arr.length > 18) {
         canv1.style.width = '600px';
-        canv1.innerHTML = `<canvas id="bekuldo" width=${arr.length*31}px height=550px></canvas>`;
+        canv1.innerHTML = `<canvas id="bekuldo" width=${arr.length*32}px height=550px></canvas>`;
         canv1.style.overflowX = "scroll";
         canv1.style.overflowY = "hidden";
     } else {
@@ -81,13 +81,13 @@ function bekuldoCounter() {
         // nevek
         ctx1.fillText(arr[l][0],10,-30*l-30);
         // szamok
-        ctx1.fillText((arr[l][1]),4*(-arr[l][1]),-30*l-40);
+        ctx1.fillText((arr[l][1]),(-arr[l][1]),-30*l-40);
         // oszlopok
         ctx1.lineWidth = 8.0;
         ctx1.strokeStyle = 'blue';
         ctx1.beginPath();
         ctx1.moveTo(0,-30*l-30);
-        ctx1.lineTo(4*(-arr[l][1]),-30*l-30);
+        ctx1.lineTo((-arr[l][1]),-30*l-30);
         ctx1.stroke();
         ctx1.closePath();
     }
@@ -107,11 +107,11 @@ function magyarazoCounter() {
     }
     arr.sort((a,b) => b[1] - a[1]);
 
-    //console.log(arr);
+    console.log(arr);
 
     if (arr.length > 18) {
         canv2.style.width = '600px';
-        canv2.innerHTML = `<canvas id="magyarazo" width=${arr.length*31}px height=550px></canvas>`;
+        canv2.innerHTML = `<canvas id="magyarazo" width=${arr.length*32}px height=550px></canvas>`;
         canv2.style.overflowX = "scroll";
         canv2.style.overflowY = "hidden";
     } else {
@@ -148,13 +148,13 @@ function magyarazoCounter() {
         // nevek
         ctx2.fillText(arr[l][0],10,-30*l-30);
         // szamok
-        ctx2.fillText((arr[l][1]),4*(-arr[l][1]),-30*l-40);
+        ctx2.fillText((arr[l][1]),(-arr[l][1]),-30*l-40);
         // oszlopok
         ctx2.lineWidth = 8.0;
         ctx2.strokeStyle = 'blue';
         ctx2.beginPath();
         ctx2.moveTo(0,-30*l-30);
-        ctx2.lineTo(4*(-arr[l][1]),-30*l-30);
+        ctx2.lineTo((-arr[l][1]),-30*l-30);
         ctx2.stroke();
         ctx2.closePath();
     }
@@ -211,13 +211,13 @@ function datumCounter() {
         // nevek
         ctx3.fillText(arr[l][0],10,-30*l-30);
         // szamok
-        ctx3.fillText((arr[l][1]),16*(-arr[l][1]),-30*l-40);
+        ctx3.fillText((arr[l][1]),8*(-arr[l][1]),-30*l-40);
         // oszlopok
         ctx3.lineWidth = 8.0;
         ctx3.strokeStyle = 'blue';
         ctx3.beginPath();
         ctx3.moveTo(0,-30*l-30);
-        ctx3.lineTo(16*(-arr[l][1]),-30*l-30);
+        ctx3.lineTo(8*(-arr[l][1]),-30*l-30);
         ctx3.stroke();
         ctx3.closePath();
     }

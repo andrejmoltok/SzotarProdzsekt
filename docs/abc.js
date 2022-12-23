@@ -179,6 +179,10 @@ function groupSlides(n) {
       magy.style.overflowY = "scroll";
       magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
+    } else if (Math.round(text.width) > 4000 && myMin1084.matches === true){
+      magy.style.overflowY = "scroll";
+      magy.style.overflowX = "hidden";
+      magy.style.alignItems = "normal";
     } else if (Math.round(text.width) > 7000 && my1084.matches === true) {
       magy.style.overflowY = "scroll";
       magy.style.overflowX = "hidden";
@@ -195,7 +199,7 @@ function groupSlides(n) {
   
     halan.innerHTML = `<h1>${sorted[n].halan}</h1>`;
 
-    if (szotar[n]['magy'] === undefined) {
+    if (sorted[n]['magy'] === undefined) {
       magy.innerText = "Törölt Tag";
     } else {
       magy.innerText = sorted[n]['magy'];
@@ -207,7 +211,7 @@ function groupSlides(n) {
       bekuldo2.innerText = sorted[n].bekuldo2;
     }
   
-    if (szotar[n]["magyarazo2"] === undefined) {
+    if (sorted[n]["magyarazo2"] === undefined) {
       magyarazo2.innerText = "Törölt Tag";
     } else {
       magyarazo2.innerText = sorted[n]['magyarazo2'];
