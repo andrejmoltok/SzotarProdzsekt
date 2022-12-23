@@ -43,8 +43,9 @@ body {
   max-width: 1000px;
   margin: 10px auto;
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: row;
   justify-content: space-evenly;
+  font-size: 22px;
 }
 
 

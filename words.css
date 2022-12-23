@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  margin: auto;
+  background-color: #814204;
+}
+
+#container, #wordsList {
+    margin: auto;
+    width: 1000px;
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+#wordsList {
+    margin-top: 0;
+    width: 800px;
+    justify-content: space-around;
+}
+
+#bekuldott, #magyarazott {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+#center-felso {
+    margin: auto;
+    text-align: center;
+}
+
+#jump {
+    margin: 30px auto;
+    display: flex;
+    flex-flow: row;
+    font-size: 22px;
+    justify-content: center;
+}
+
+#jump > div {
+    margin-left: 50px;
+}
+
+.p {
+    font-size: 22px;
+    text-align: center;
+}
+
+#users, #bekuld, #magy {
+    margin-top: 30px;
+    width: 300px;
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 18px;
+}
+
+h1 {
+	font-size: 42px;
+	font-weight: bold;
+	color: #d2bdff;
+	text-shadow: 4px 4px 5px rgba(65, 1, 93, 1);
+}
