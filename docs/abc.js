@@ -167,7 +167,11 @@ function groupSlides(n) {
       magy.style.overflowY = "scroll";
       magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
-    } else if (Math.round(text.width) > 4300 && my784.matches === true){
+    } else if (Math.round(text.width) > 3800 && myMin1084.matches === true) {
+      magy.style.overflowY = "scroll";
+      magy.style.overflowX = "hidden";
+      magy.style.alignItems = "normal";
+    }else if (Math.round(text.width) > 4300 && my784.matches === true){
       magy.style.overflowY = "scroll";
       magy.style.overflowX = "hidden";
       magy.style.alignItems = "normal";
