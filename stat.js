@@ -177,9 +177,9 @@ function datumCounter() {
     arr.sort((a,b) => b[1] - a[1]);
     //console.log(arr);
 
-    if (arr.length > 14) {
+    if (arr.length > 18) {
         canv3.style.width = '600px';
-        canv3.innerHTML += `<canvas id="datum" width=${arr.length*31}px height=550px></canvas>`;
+        canv3.innerHTML += `<canvas id="datum" width=${arr.length*32}px height=550px></canvas>`;
         canv3.style.overflowX = "scroll";
         canv3.style.overflowY = "hidden";
     }

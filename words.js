@@ -3,6 +3,8 @@ import { szotar } from './szotar.js';
 const user = document.getElementById('users');
 const bekuld = document.getElementById('bekuld');
 const magy = document.getElementById('magy');
+// const bekuldott = document.getElementById('bekuldott');
+// const magyarazott = document.getElementById('magyarazott');
 
 user.style.cursor = "pointer";
 bekuld.style.cursor = "pointer";
@@ -31,9 +33,7 @@ function users() {
 
 
 function words(username) {
-    const bekuld = document.getElementById('bekuld');
-    const magy = document.getElementById('magy');
-    
+        
     for (let i = 0; i < userek.length; i++) {
         if (username === document.getElementById(username).id) {
             document.getElementById(username).style.borderBottom = "2px solid white";
